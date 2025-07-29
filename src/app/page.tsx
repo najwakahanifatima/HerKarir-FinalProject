@@ -1,103 +1,52 @@
 import Image from "next/image";
+import { ModuleList } from "@/components/ModuleLists";
+import { ModuleLearning } from "@/components/ModuleLearning";
+
+const dummyModuleList = [
+    "Getting started",
+    "3D Modeling Fundamentals",
+    "Modeling for 3D Printing",
+    "Modeling for Laser Cutting",
+    "Parametric Product Modeling",
+    "Final Project, Remaining Features + Conclusion",
+]
+
+const dummyModuleLearning = {
+  title: "3D Modeling for 3D Printing and Laser Cutting on Fusion 360",
+  institution: "Packt",
+  modulesName: [
+    "Getting started",
+    "3D Modeling Fundamentals",
+    "Modeling for 3D Printing",
+    "Modeling for Laser Cutting",
+    "Parametric Product Modeling",
+    "Final Project, Remaining Features + Conclusion",
+  ],
+  modulesDescription: [
+    "In this module, we will explore the foundational aspects of 3D design and laser cutting. You will learn how to download and install the Fusion 360 software and gain familiarity with its user interface. This section provides the essential setup and orientation for beginners starting their journey into 3D modeling.",
+    "In this module, we will dive into essential 3D modeling techniques, starting with the creation of a chair and progressing through platonic solids like the octahedron and dodecahedron. You'll learn how to use technical drawings to model a bench and refine your designs using arcs, patterns, and constraints. This section lays a solid foundation for understanding 3D object construction.",
+    "In this module, we will explore the nuances of designing models specifically for 3D printing. You will learn how to account for material strength, tolerances, and cost, as well as create practical objects like a phone charging station and Allen key. Additionally, this section introduces advanced techniques for designing 3D-printed boxes with secure closures.",
+    "In this module, we will explore the fundamentals of laser cutting, beginning with an introduction to parametric modeling and progressing to hands-on projects such as designing a laser-cut lamp and box. You will also learn how to export models to a dxf file and apply finishing touches like patterns and handles for functional use.",
+    "In this module, we will delve into parametric product modeling, a powerful design approach where object dimensions are driven by variables. You'll learn how to create a parametric box by defining key parameters and explore the broader potential of this technique in product design, enabling flexibility and customization.",
+    "In this module, we will complete the course by designing a 3D-printed hinge, which involves creating multiple parts that interact. You'll also explore the remaining features of 3D modeling, including rendering your final designs. The section concludes with a recap and closing remarks from the instructor.",
+  ],
+  modulesDuration: [
+    "21 minutes",
+    "1 hour",
+    "51 minutes",
+    "1 hour",
+    "44 minutes",
+    "2 hours",
+  ],
+}
 
 export default function Home() {
   return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Trial{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
-
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
+    <div className="font-sans">
+      <main className="flex flex-col">
+        <ModuleList modulesName={dummyModuleList}/>
+        <ModuleLearning {...dummyModuleLearning} />
       </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
     </div>
   );
 }

@@ -23,7 +23,7 @@ export const AssessmentCard = ( {
     const [userAnswers, setUserAnswers] = useState<(string | null)[]>([]);
 
     return (
-        <section className="flex flex-col rounded-lg border-1 border-[#D9D9D9]">
+        <section className="flex flex-col rounded-lg border-1 border-[#D9D9D9] items-center">
             {/* Header */}
             <div className="flex justify-between items-center bg-[#FAE8ED] p-4 rounded-t-lg">
                 {/* Title and Module Name */}
@@ -50,6 +50,10 @@ export const AssessmentCard = ( {
                     </div>
                 ))}
             </div>
+            {/* Submit Assessment */}
+            <button className="w-5/6 bg-[#C9184A] text-white py-1 rounded-lg mb-5 cursor-pointer transform transition hover:-translate-y-1">
+                Kumpulkan
+            </button>
         </section>
     )
 }

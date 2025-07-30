@@ -84,7 +84,7 @@ export default function CourseDetailPage() {
 
                 {/* Course Module Section */}
                 <div className="w-1/2 h-150 overflow-y-scroll">
-                    <ModuleList modulesName={course['Modules Name']}/>
+                    <ModuleList modulesName={course['Modules Name']} title={course.Title}/>
                 </div>
             </div>
         </section>

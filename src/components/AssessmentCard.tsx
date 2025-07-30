@@ -25,7 +25,7 @@ export const AssessmentCard = ( {
     return (
         <section className="flex flex-col rounded-lg border-1 border-[#D9D9D9] items-center">
             {/* Header */}
-            <div className="flex justify-between items-center bg-[#FAE8ED] p-4 rounded-t-lg">
+            <div className="flex justify-between items-center bg-[#FAE8ED] p-4 rounded-t-lg w-full">
                 {/* Title and Module Name */}
                 <div className="flex flex-col">
                     <span className="font-semibold">{title}</span>

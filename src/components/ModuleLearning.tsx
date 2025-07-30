@@ -6,7 +6,7 @@ import VideoPlayer from "./VideoPlayer"
 
 // TO DO: add pre, mid, post test in modulesName. add logo institution
 
-interface ModuleLearningProps {
+export interface ModuleLearningProps {
     title: string,
     institution: string,
     modulesName: string[],

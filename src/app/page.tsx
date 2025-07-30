@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { ModuleList } from "@/components/ModuleLists";
 import { ModuleLearning } from "@/components/ModuleLearning";
+import { AssessmentCard, AssessmentCardProps } from "@/components/AssessmentCard";
 
 const dummyModuleList = [
     "Getting started",
@@ -40,10 +41,32 @@ const dummyModuleLearning = {
   ],
 }
 
+const dummyAssessment : AssessmentCardProps = {
+  title: 'Pre-Test: Assess Your PM Readiness',
+  module: 'Product Management',
+  questions: [
+    'User feedback and data should be a key input when making product decisions.',
+    'The more features a product has, the better its product-market fit.',
+    'Scrum and Agile are development frameworks that Product Managers often work within.',
+    'User personas are created primarily based on internal stakeholder assumptions.',
+    'A high churn rate is a positive indicator of product-market fit.',
+  ],
+  correctAnswers: [
+    'True',
+    'True',
+    'False',
+    'True',
+    'False',
+  ],
+  isSubmitted: false,
+  score: 0,
+}
+
 export default function Home() {
   return (
     <div className="font-sans">
       <main className="flex flex-col">
+        <AssessmentCard {...dummyAssessment} />
         <ModuleList modulesName={dummyModuleList}/>
         <ModuleLearning {...dummyModuleLearning} />
       </main>

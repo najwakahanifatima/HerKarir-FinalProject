@@ -1,0 +1,669 @@
+{
+    "1": {
+        "query_text": ".NET FullStack Developer",
+        "recommendations": [
+            {
+                "title": "Software Engineer (Fullstack)",
+                "company": "Sprout Digital Labs",
+                "description": "Provide technical leadership in a fast-moving, data-driven environment...",
+                "qualification": "Bachelor's degree in Computer science or equivalent degree...",
+                "benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system...",
+                "Similarity Score": 0.6729831695556641,
+                "tags": {
+                    "tempat": "Penuh Waktu",
+                    "tingkat": "Mahir",
+                    "industri": "Teknologi",
+                    "salary": "Rp 15-20 juta",
+                    "experience": "Minimal 3 tahun pengalaman",
+                    "location": "Jakarta"
+                }
+            },
+            {
+                "title": "Software - Engineer",
+                "company": "The Flex",
+                "description": "Full-Stack Development: Design, develop, and maintain scalable web applications...",
+                "qualification": "Proficiency in Node.js, React, and AWS Cloud...",
+                "benefit": "Competitive Salary\nMedical Insurance\nProfessional Development",
+                "Similarity Score": 0.6452447175979614,
+                "tags": {
+                    "tempat": "Magang",
+                    "tingkat": "Pemula",
+                    "industri": "Data dan Produk",
+                    "salary": "Rp 8-12 juta",
+                    "experience": "Baru lulus atau 1 tahun pengalaman",
+                    "location": "Bandung"
+                }
+            },
+            {
+                "title": "Fullstack Developer",
+                "company": "AssistX Enterprise",
+                "description": "Membangun perangkat lunak yang kuat dan dapat ditingkatkan...",
+                "qualification": "Pendidikan minimal S1 Ilmu komputer...",
+                "benefit": "Competitive Salary\nTHR / Bonus system\nPeriod Leave",
+                "Similarity Score": 0.6328955888748169,
+                "tags": {
+                    "tempat": "Paruh Waktu",
+                    "tingkat": "Mahir",
+                    "industri": "Teknologi",
+                    "salary": "Rp 10-15 juta",
+                    "experience": "Minimal 1 tahun pengalaman",
+                    "location": "Jakarta"
+                }
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": "United Creative",
+                "description": "Develop and maintain scalable web applications...",
+                "qualification": "Proven experience as a Full Stack Developer...",
+                "benefit": "Competitive Salary\nTHR / Bonus system\nPeriod Leave",
+                "Similarity Score": 0.5868250131607056,
+                "tags": {
+                    "tempat": "Freelance",
+                    "tingkat": "Pemula",
+                    "industri": "Data dan Produk",
+                    "salary": "Rp 5-8 juta",
+                    "experience": "Fresh graduate bisa melamar",
+                    "location": "Bandung"
+                }
+            },
+            {
+                "title": "Fullstack Go Javascript Developer",
+                "company": "ITOMMEY Group",
+                "description": "Fullstack Development: Design, develop, test, and deploy software solutions...",
+                "qualification": "Bachelor Degree (S1) In Computer Science...",
+                "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+                "Similarity Score": 0.5857535600662231,
+                "tags": {
+                    "tempat": "Penuh Waktu",
+                    "tingkat": "Mahir",
+                    "industri": "Teknologi",
+                    "salary": "Rp 18-25 juta",
+                    "experience": "Minimal 2 tahun pengalaman",
+                    "location": "Jakarta"
+                }
+            },
+            {
+                "title": "Fullstack Developer",
+                "company": "ITOMMEY Group",
+                "description": "Work with developers to design algorithms and flowcharts...",
+                "qualification": "Bachelor Degree (S1) Degree in Technology...",
+                "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+                "Similarity Score": 0.5840919017791748,
+                "tags": {
+                    "tempat": "Magang",
+                    "tingkat": "Pemula",
+                    "industri": "Data dan Produk",
+                    "salary": "Rp 6-10 juta",
+                    "experience": "Pengalaman 1-2 tahun lebih diutamakan",
+                    "location": "Bandung"
+                }
+            },
+            {
+                "title": "Fullstack Web Developer",
+                "company": "PT Gree Electric Appliances Indonesia",
+                "description": "Responsible for the front-end WEB and back-end function development...",
+                "qualification": "Bachelor's degree in Computer Science...",
+                "benefit": "Period Leave\nTeam Building Activity\nCasual Dress Code...",
+                "Similarity Score": 0.5801753997802734,
+                "tags": {
+                    "tempat": "Penuh Waktu",
+                    "tingkat": "Mahir",
+                    "industri": "Teknologi",
+                    "salary": "Rp 12-18 juta",
+                    "experience": "Minimal 3 tahun pengalaman",
+                    "location": "Jakarta"
+                }
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": "PT. Mandiri International Technology",
+                "description": "Develop and maintain scalable web applications using React...",
+                "qualification": "Bachelor’s degree in Information Technology...",
+                "benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance...",
+                "Similarity Score": 0.5789563059806824,
+                "tags": {
+                    "tempat": "Freelance",
+                    "tingkat": "Mahir",
+                    "industri": "Data dan Produk",
+                    "salary": "Rp 20-30 juta",
+                    "experience": "Lebih dari 3 tahun pengalaman",
+                    "location": "Jakarta"
+                }
+            },
+            {
+                "title": ".NET Developer",
+                "company": "First Resources Ltd.",
+                "description": "Develop aplikasi berbasis .Net...",
+                "qualification": "Pendidikan minimal S1 Teknologi Informasi...",
+                "benefit": "Period Leave\nMedical Insurance",
+                "Similarity Score": 0.5749985575675964,
+                "tags": {
+                    "tempat": "Penuh Waktu",
+                    "tingkat": "Pemula",
+                    "industri": "Teknologi",
+                    "salary": "Rp 8-14 juta",
+                    "experience": "Minimal 2 tahun pengalaman",
+                    "location": "Bandung"
+                }
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": "Kharisma Potensia Indonesia",
+                "description": "The Full Stack Developer will take ownership...",
+                "qualification": "Bachelor’s degree in Computer Science...",
+                "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system...",
+                "Similarity Score": 0.5733383893966675,
+                "tags": {
+                    "tempat": "Paruh Waktu",
+                    "tingkat": "Pemula",
+                    "industri": "Data dan Produk",
+                    "salary": "Rp 7-10 juta",
+                    "experience": "1-3 tahun pengalaman",
+                    "location": "Jakarta"
+                }
+            }
+        ]
+    },
+    "2": {
+    "query_text": "3D Interaction Design in Virtual Reality",
+    "recommendations": [
+        {
+        "title": "Visual Merchandise Project Specialist",
+        "company": "PT. PASSION ABADI KORPORA",
+        "description": "Tugas & Tanggung Jawab:\nNotes: Posisi ini membutuhkan individu yang mampu bekerja di bawah tekanan dan memiliki orientasi terhadap detail. Bersedia bekerja secara fleksibel, termasuk di luar jam kerja reguler jika diperlukan untuk mendukung kelancaran proyek.",
+        "qualification": "Pendidikan min. S1 Arsitektur, Interior Design, atau jurusan relevan.\nMemiliki pengalaman kerja min. 1 tahun sebagai Visual Merchandise & Project Staff.\nMemiliki sertifikasi menjadi nilai tambah jika ada.\nSertifikasi: Tidak diwajibkan, tetapi menjadi nilai tambah jika ada.\nKomunikasi yang baik dan kemampuan bekerja sama dalam tim.\nKreativitas dalam merancang konsep desain yang inovatif dan sesuai tren pasar.\nKemampuan mengelola waktu dan multitasking untuk menangani berbagai proyek secara simultan.\nPengetahuan mendalam tentang Visual Merchandise & Project.\nKemampuan mengoperasikan software desain seperti SketchUp, AutoCAD, V-Ray, Photoshop, dan Adobe Illustrator.\nMahir menggunakan MS Office (terutama Excel dan Word) dan sistem ERP/sejenis.\nKemampuan analisis data dan pembuatan laporan.\nKemampuan berbahasa Inggris yang baik, baik lisan maupun tulisan.",
+        "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+        "Similarity Score": 0.48905256390571594,
+        "tags": ["Penuh Waktu", "Mahir", "Produk"],
+        "salary": "Rp 8.000.000 - Rp 12.000.000",
+        "experience": "Minimal 1 tahun pengalaman.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "3D Artist",
+        "company": "Moladin",
+        "description": "Understand 3D Anamorphic Illusion\nCreate 3D anamorphic animation\nVerify the quality of the objects and make improvements where necessary to fit technical constraints and artistic direction\nHave a 3D animation showreel\nBe able to animate in Blender",
+        "qualification": "High competency with 3D software such as Maya/ Blender/3Dsmax\nHaving experience on any of available game engine such as Unity or Unreal\nInterested on doing research and experiment on relevant technologies and best practice to support the 3D modelling pipeline\nTeam-Player who can also work independently",
+        "benefit": "Period Leave\nTransportation",
+        "Similarity Score": 0.47741323709487915,
+        "tags": ["Freelance", "Mahir", "Teknologi"],
+        "salary": "Rp 6.000.000 - Rp 10.000.000",
+        "experience": "Berpengalaman dalam 3D modeling.",
+        "location": "Bandung"
+        },
+        {
+        "title": "Creative Designer",
+        "company": "BINUS Group",
+        "description": "Ensure effective design of complex graphics and animation, using independent judgment and creativity\nCreate basic designs, drawings, and illustrations for related multimedia production",
+        "qualification": "Minimum Bachelor's Degree in Visual Communication Design / Design / Related studies\nMinimum 2 years of working experience\nExperience in Graphic Design\nExperience in Video Editing will be a plus point",
+        "benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance",
+        "Similarity Score": 0.4742634892463684,
+        "tags": ["Penuh Waktu", "Mahir", "Produk"],
+        "salary": "Rp 7.000.000 - Rp 11.000.000",
+        "experience": "Minimal 2 tahun pengalaman desain.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Graphic Design Intern",
+        "company": "Vidio",
+        "description": "Create Key Visuals for internal platforms, Vidio social media, digital ads, TV ads, and print media.\n⁠Develop and Adapt Visuals for sports events, VOD content, movies, kids, and music programs across various platforms.\n⁠Support External Communication by creating visual assets for campaigns, including banners, promotions, and marketing materials for partners.\nResize and Adapt Visuals from internal and external partners for different formats and platforms.\nCollaborate Cross-functionally with internal teams (marketing, creative, production) and external stakeholders to deliver required creative assets.\nEnsure Timely Delivery of creative materials while maintaining high-quality standards across platforms.",
+        "qualification": "Currently pursuing or recently graduated with a degree in Design, Visual Communication Design, Multimedia, or related fields.\n⁠Proficient in design tools such as Adobe Photoshop, Illustrator, and other relevant software.\nStrong understanding of visual design principles, including layout, color theory, and typography.\nAbility to adapt and resize visuals for various platforms and formats.\nCreative mindset with attention to detail and the ability to deliver high-quality design assets.\n⁠Good communication and collaboration skills to work with cross-functional teams and external stakeholders.\nAbility to manage time effectively and meet deadlines in a fast-paced environment.\nPassionate about digital content, sports, movies, and marketing campaigns.\nWillingness to learn and adapt to different project requirements.",
+        "benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nTransportation\nCasual Dress Code\nTeam Building Activity\nSelf-development Allowance\nCompany Outings\nPaid Maternity / Paternity Leave\nPaid Sick Days\nProfessional Development\nWellness Program\nEmployee Discounts",
+        "Similarity Score": 0.4481310248374939,
+        "tags": ["Magang", "Pemula", "Produk"],
+        "salary": "Rp 3.000.000 - Rp 4.500.000",
+        "experience": "Posisi untuk mahasiswa atau fresh graduate.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "UI/UX Designer",
+        "company": "Universitas Ciputra",
+        "description": "Melakukan pembuatan aset desain konten digital marketing dan pembuatan desain UX web apps / mobile apps",
+        "qualification": "Minimal pendidikan S1 jurusan IT, Sistem informasi, atau jurusan lain yang relevan\nMemiliki pengalaman membuat desain aplikasi web dan mobile, konten untuk website dan media sosial\nMampu mengoperasikan Adobe Illustrator, photoshop, dan premiere pro",
+        "benefit": "Period Leave\nCompetitive Salary\nTHR / Bonus system",
+        "Similarity Score": 0.43833476305007935,
+        "tags": ["Penuh Waktu", "Mahir", "Teknologi"],
+        "salary": "Rp 7.500.000 - Rp 12.000.000",
+        "experience": "Berpengalaman membuat desain aplikasi.",
+        "location": "Bandung"
+        },
+        {
+        "title": "Learning Multimedia Specialist",
+        "company": "Universitas Ciputra",
+        "description": "Memproduksi video pembelajaran\nMelakukan dokumentasi foto untuk mendukung peningkatan kualitas pengajaran\nMelakukan desain grafis dalam pembuatan poster/infografis",
+        "qualification": "Minimal pendidikan S1 jutusan multimedia/Desain Komunikasi Visual/Teknologi Pendidikan/Komunikasi dan program studi lainnya yang relevan\nMemiliki pengalaman di bidang desain dan video (content creator) minimal 2 tahun (Diutamakan)\nMenguasai tren desain dan videografi terkini\nMahir menggunakan Adobe Photoshop & Illustrator\nMahir mengedit video dengan Premiere & After Effects",
+        "benefit": "Period Leave\nCompetitive Salary\nTHR / Bonus system",
+        "Similarity Score": 0.42814481258392334,
+        "tags": ["Penuh Waktu", "Mahir", "Produk"],
+        "salary": "Rp 6.500.000 - Rp 9.000.000",
+        "experience": "Minimal 2 tahun di bidang desain & video.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Visual Designer",
+        "company": "PT FCL Internasional Indonesia",
+        "description": "1.Bertanggung jawab atas desain dan pengembangan visual display di offline store berpartisipasi dalam implementasi dan pengawasan desain grafis,serta memastikan penyebaran citra merek yang konsisten disetiap offline store. Ini termasuk namun tidak terbatas pada penataan display di MT seperti MINISO, DAN DAN, serta produksi materi visual untuk pameran besar dan kegiatan promosi.\n2.Berdasarkan visi misi perusahaan, berpartisipasi dalam perumusan standar visual offline store serta mendorong pembangunan sistem visual offline store.\n3.Bertanggung jawab untuk merincikan desain menjadi gambar teknis yang detail, serta menjalin komunikasi dengan vendor produksi dan mengikuti seluruh prosesnya, termasuk warna, implementasi, dan eksekusi akhir.\n4.Mampu menganalisis dan mengumpulkan visual dari brand lain serta meneliti berbagai karya desain merek yang unggul untuk kemudian disusun dan dibagikan.",
+        "qualification": "1.Lulusan jurusan desain industri, desain periklanan, desain display, atau jurusan seni desain lainnya; memiliki pengalaman lebih dari 1 tahun dalam pengembangan dan desain display akan menjadi nilai tambah.\n2.Memiliki pemahaman tentang estetika display, mampu menggunakan material secara tepat sesuai kebutuhan desain, serta memiliki pemahaman dasar tentang biaya.\n3.Mahir berkomunikasi, memiliki semangat team work yang baik dan rasa tanggung jawab yang tinggi.\n4.Terampil menggunakan perangkat lunak seperti Illustrator, Photoshop, serta Keyshot/Blender/C4D.\n5.Memiliki sikap kerja yang serius dan bertanggung jawab, semangat profesionalisme dan teamwork yang tinggi, serta kemampuan eksekusi yang kuat.",
+        "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system\nPaid Sick Days",
+        "Similarity Score": 0.4211507737636566,
+        "tags": ["Penuh Waktu", "Mahir", "Produk"],
+        "salary": "Rp 6.500.000 - Rp 10.000.000",
+        "experience": "Pengalaman lebih dari 1 tahun.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "UI/UX Internship",
+        "company": "Xapiens Teknologi Indonesia",
+        "description": "Assist in creating wireframes, prototypes, and user interface designs for web and mobile apps using Figma\nCollaborate with the Project Manager to help ensure a smooth and user-friendly experience\nWork with developers to support the accurate implementation of designs\nParticipate in brainstorming sessions, workshops, and usability testing activities\nIterate on designs based on user and team feedback\nSupport the design team in producing visual assets such as icons and illustrations when needed",
+        "qualification": "Final-year student or fresh graduate from Interaction Design (IxD), Human-Computer Interaction (HCI), Visual Communication Design, Graphic Design, or IT-related fields.\nA portfolio showing your skills in UI/UX design for web or mobile apps.\nFamiliar with design tools such as Figma, Adobe Photoshop, Adobe Illustrator, or similar platforms. Interest or experience in motion graphics or creating user/video guides is a plus.\nWilling to learn, open to feedback, and enjoy working in a team.\nAvailable for a 6-month internship, working from the office (WFO).",
+        "benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nPeriod Leave\nPaid Maternity / Paternity Leave\nProfessional Development\nTeam Building Activity\nCasual Dress Code",
+        "Similarity Score": 0.41966861486434937,
+        "tags": ["Magang", "Pemula", "Teknologi"],
+        "salary": "Rp 3.000.000 - Rp 4.000.000",
+        "experience": "Cocok untuk mahasiswa tingkat akhir.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "UI/UX Designer",
+        "company": "PT Node Solusi Teknologi",
+        "description": "Mengilustrasikan ide melalui storyboard, alur proses, perjalanan pengguna, dan peta situs.\nMenyampaikan solusi berbasis pengguna dengan mempertimbangkan penelitian dan pemahaman kebutuhan bisnis.\nMengembangkan rancangan (UI) dan prototipe.\nMelakukan penelitian pengguna untuk memperbaiki desain.\nMenguji, merevisi, dan memperbaiki desain dengan cepat berdasarkan umpan balik.",
+        "qualification": "Pendidikan minimal SMA/SMK sederajat.\nMemiliki Pengalaman di bidang yang sama.\nKemahiran dan pengalaman dalam menggunakan perangkat lunak desain seperti Figma, Corel, dan Adobe Photoshop.\nPengetahuan dasar HTML, CSS, dan Javascript menjadi nilai tambah.\nKemampuan untuk melakukan iterasi desain dengan cepat.",
+        "benefit": "Free Lunch",
+        "Similarity Score": 0.4140107333660126,
+        "tags": ["Penuh Waktu", "Mahir", "Teknologi"],
+        "salary": "Rp 6.000.000 - Rp 9.000.000",
+        "experience": "Berpengalaman di bidang UI/UX.",
+        "location": "Bandung"
+        },
+        {
+        "title": "Creative Leader",
+        "company": "Clerina Group",
+        "description": "Memimpin tim kreatif yang terdiri dari content creator, graphic designer, fotografer, videografer, dan social media editor.\nMerancang dan mengarahkan konsep visual untuk campaign, launching produk, branding event, dan komunikasi digital.\nBertanggung jawab atas output visual dan konten di seluruh platform (Instagram, TikTok, YouTube, Shopee, Website).\nMenjaga konsistensi brand secara visual dan storytelling dalam semua materi promosi dan komunikasi.\nMengelola timeline proyek kreatif, memastikan semua materi selesai tepat waktu dengan kualitas tinggi.\nBerkolaborasi erat dengan tim marketing, produk, dan brand strategy untuk memastikan arah kreatif selaras dengan target bisnis.\nMemberikan arahan, evaluasi, dan feedback terhadap hasil desain, video, maupun konten lainnya dari tim.\nSelalu update dengan tren visual dan gaya komunikasi di industri kecantikan dan digital.",
+        "qualification": "Pendidikan minimal S1 di bidang Desain Komunikasi Visual, Multimedia, Komunikasi, atau bidang relevan.\nPengalaman minimal 3–5 tahun di bidang kreatif, dengan minimal 1 tahun sebagai supervisor/team lead.\nMemiliki portfolio kreatif yang kuat, terutama di industri beauty, lifestyle, atau digital campaign.\nMahir memberikan arahan desain, storytelling visual, dan konsep campaign 360° (online & offline).\nPunya selera desain yang kuat, trend-savvy, dan mampu berpikir out of the box.\nMampu mengelola tim lintas fungsi secara efisien dan mendorong produktivitas tim kreatif.\nKomunikatif, solutif, dan terbiasa bekerja dengan deadline campaign.\nWFO, Bandung",
+        "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system\nPaid Sick Days",
+        "Similarity Score": 0.4127412736415863,
+        "tags": ["Penuh Waktu", "Mahir", "Produk"],
+        "salary": "Rp 10.000.000 - Rp 15.000.000",
+        "experience": "Minimal 3-5 tahun di bidang kreatif.",
+        "location": "Bandung"
+        }
+    ]
+    },
+
+    "3": {
+    "query_text": "3D Modeling for 3D Printing and Laser Cutting on Fusion 360",
+    "recommendations": [
+        {
+        "title": "Digital Print Designer",
+        "company": "PT. SARANAGRIYA LESTARI KERAMIK",
+        "description": "Mempersiapkan design yang akan diproduksi\nMelakukan penyesuaian warna\nMenyimpan design",
+        "qualification": "Pria, max 30 th\nPendidikan min D3\nMenguasai program design, khususnya Photosop-Mac",
+        "benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nTransportation",
+        "Similarity Score": 0.5444059371948242,
+        "tags": ["Penuh Waktu", "Pemula", "Teknologi"],
+        "salary": "Rp6.000.000 - Rp8.000.000",
+        "experience": "Cocok untuk desainer grafis pemula.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Creative Designer",
+        "company": "BINUS Group",
+        "description": "Ensure effective design of complex graphics and animation, using independent judgment and creativity\nCreate basic designs, drawings, and illustrations for related multimedia production",
+        "qualification": "Minimum Bachelor's Degree in Visual Communication Design / Design / Related studies\nMinimum 2 years of working experience\nExperience in Graphic Design\nExperience in Video Editing will be a plus point",
+        "benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance",
+        "Similarity Score": 0.41538703441619873,
+        "tags": ["Magang", "Mahir", "Data dan Produk"],
+        "salary": "Rp7.000.000 - Rp9.000.000",
+        "experience": "Memerlukan pengalaman minimal 2 tahun di bidang desain.",
+        "location": "Bandung"
+        },
+        {
+        "title": "3D Artist",
+        "company": "Moladin",
+        "description": "Understand 3D Anamorphic Illusion\nCreate 3D anamorphic animation\nVerify the quality of the objects and make improvements where necessary to fit technical constraints and artistic direction\nHave a 3D animation showreel\nBe able to animate in Blender",
+        "qualification": "High competency with 3D software such as Maya/ Blender/3Dsmax\nHaving experience on any of available game engine such as Unity or Unreal\nInterested on doing research and experiment on relevant technologies and best practice to support the 3D modelling pipeline\nTeam-Player who can also work independently",
+        "benefit": "Period Leave\nTransportation",
+        "Similarity Score": 0.3838685154914856,
+        "tags": ["Freelance", "Mahir", "Teknologi"],
+        "salary": "Rp8.000.000 - Rp10.000.000",
+        "experience": "Butuh portofolio 3D animation dan pengalaman teknis.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Product Designer",
+        "company": "Kavela",
+        "description": "What You'll Do:",
+        "qualification": "Bachelor’s degree in Graphic Design or a related discipline, or equivalent relevant experience.\nAt least 1 year of hands-on experience in packaging or graphic design, ideally within the FMCG industry.\nStrong aesthetic sense with solid skills in layout, color theory, and visual storytelling.\nProficient in Adobe Photoshop, Illustrator & 3D Visual Softwares ( Rhinocheros/Blender/Fusion360 or similar softwares)\nOpen to and capable of working full-time on-site in Bekasi, Indonesia.",
+        "benefit": "Medical Insurance\nCasual Dress Code\nTeam Building Activity\nProfessional Development\nCompany Outings\nTHR / Bonus system",
+        "Similarity Score": 0.38250070810317993,
+        "tags": ["Penuh Waktu", "Pemula", "Data dan Produk"],
+        "salary": "Rp6.500.000 - Rp8.500.000",
+        "experience": "Ideal untuk desainer dengan pengalaman minimal 1 tahun.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Graphic Designer",
+        "company": "Serial",
+        "description": "This position bridges the gap between graphic design and content creation...",
+        "qualification": "Education background: Bachelor of Design / Fashion / Craft / Art, or Visual Arts....",
+        "benefit": "Competitive Salary\nTHR / Bonus system\nEmployee Discounts...",
+        "Similarity Score": 0.354340136051178,
+        "tags": ["Paruh Waktu", "Mahir", "Teknologi"],
+        "salary": "Rp7.000.000 - Rp9.000.000",
+        "experience": "Membutuhkan 2+ tahun pengalaman di studio desain.",
+        "location": "Bandung"
+        },
+        {
+        "title": "Learning Multimedia Specialist",
+        "company": "Universitas Ciputra",
+        "description": "Memproduksi video pembelajaran...",
+        "qualification": "Minimal pendidikan S1 jurusan multimedia...",
+        "benefit": "Period Leave\nCompetitive Salary\nTHR / Bonus system",
+        "Similarity Score": 0.34701985120773315,
+        "tags": ["Magang", "Pemula", "Data dan Produk"],
+        "salary": "Rp5.500.000 - Rp7.000.000",
+        "experience": "Diutamakan yang memiliki pengalaman minimal 2 tahun.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Pattern/Bottom Maker",
+        "company": "Pou Chen Group Indonesia",
+        "description": "Primarily use Jevero/Crispin pattern-making software...",
+        "qualification": "Experience in footwear pattern-making is preferred...",
+        "benefit": "Competitive Salary\nTHR / Bonus system...",
+        "Similarity Score": 0.3452046513557434,
+        "tags": ["Penuh Waktu", "Mahir", "Teknologi"],
+        "salary": "Rp6.500.000 - Rp8.500.000",
+        "experience": "Lebih disukai yang sudah berpengalaman di pattern making.",
+        "location": "Bandung"
+        },
+        {
+        "title": "UI/UX Designer",
+        "company": "PT Node Solusi Teknologi",
+        "description": "Mengilustrasikan ide melalui storyboard...",
+        "qualification": "Pendidikan minimal SMA/SMK sederajat...",
+        "benefit": "Free Lunch",
+        "Similarity Score": 0.34501558542251587,
+        "tags": ["Paruh Waktu", "Pemula", "Data dan Produk"],
+        "salary": "Rp5.000.000 - Rp7.000.000",
+        "experience": "Cocok untuk pemula dengan dasar UI/UX design.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Graphic Designer Freelance",
+        "company": "Candyfurn",
+        "description": "This is a contract role that offers a hybrid work arrangement...",
+        "qualification": "Experience in creating and developing digital content...",
+        "benefit": "Casual Dress Code\nFlexibility",
+        "Similarity Score": 0.3412746787071228,
+        "tags": ["Freelance", "Pemula", "Teknologi"],
+        "salary": "Rp4.000.000 - Rp6.000.000",
+        "experience": "Posisi freelance untuk pembuatan konten digital.",
+        "location": "Bandung"
+        },
+        {
+        "title": "Motion Graphics Designer",
+        "company": "City Vision Indonesia",
+        "description": "Work with art and creative departments...",
+        "qualification": "2 Years Exp as Motion Graphic Designer...",
+        "benefit": "Transportation",
+        "Similarity Score": 0.3363630175590515,
+        "tags": ["Penuh Waktu", "Mahir", "Data dan Produk"],
+        "salary": "Rp7.500.000 - Rp9.500.000",
+        "experience": "Memerlukan pengalaman minimal 2 tahun di motion graphics.",
+        "location": "Jakarta"
+        }
+    ]
+    },
+    "4": {
+    "query_text": "3D Printing and Additive Manufacturing",
+    "recommendations": [
+        {
+        "title": "Digital Print Designer",
+        "company": "PT. SARANAGRIYA LESTARI KERAMIK",
+        "description": "Mempersiapkan design yang akan diproduksi\nMelakukan penyesuaian warna\nMenyimpan design",
+        "qualification": "Pria, max 30 th\nPendidikan min D3\nMenguasai program design, khususnya Photosop-Mac",
+        "benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nTransportation",
+        "Similarity Score": 0.6830241680145264,
+        "tags": ["Penuh Waktu", "Mahir", "Produk"],
+        "salary": "Rp6.000.000 - Rp8.000.000",
+        "experience": "Memiliki pengalaman di bidang desain grafis.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Creative Designer",
+        "company": "BINUS Group",
+        "description": "Ensure effective design of complex graphics and animation...",
+        "qualification": "Minimum Bachelor's Degree...",
+        "benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance",
+        "Similarity Score": 0.44820600748062134,
+        "tags": ["Magang", "Pemula", "Teknologi"],
+        "salary": "Rp5.000.000 - Rp7.000.000",
+        "experience": "Berpengalaman minimal 2 tahun di bidang desain.",
+        "location": "Bandung"
+        },
+        {
+        "title": "Visual Merchandise Project Specialist",
+        "company": "PT. PASSION ABADI KORPORA",
+        "description": "Tugas & Tanggung Jawab...",
+        "qualification": "Pendidikan min. S1 Arsitektur...",
+        "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+        "Similarity Score": 0.4339480996131897,
+        "tags": ["Paruh Waktu", "Mahir", "Produk"],
+        "salary": "Rp6.500.000 - Rp9.000.000",
+        "experience": "Memiliki pengalaman minimal 1 tahun di bidang desain interior.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Design Engineer",
+        "company": "Imajin",
+        "description": "Create detailed 2D and 3D drawings...",
+        "qualification": "Min. Diploma (D3) in Mechanical...",
+        "benefit": "Competitive Salary\nMedical Insurance\nCasual Dress Code...",
+        "Similarity Score": 0.43053919076919556,
+        "tags": ["Penuh Waktu", "Mahir", "Teknologi"],
+        "salary": "Rp7.000.000 - Rp10.000.000",
+        "experience": "Memiliki pengalaman 1-2 tahun dalam proyek desain engineering.",
+        "location": "Bandung"
+        },
+        {
+        "title": "Arsitek",
+        "company": "PT. Richeese Kuliner Indonesia",
+        "description": "Membuat dan menyediakan perencanaan desain arsitektur...",
+        "qualification": "Pendidikan Minimal S1 Arsitektur...",
+        "benefit": "Competitive Salary\nTHR / Bonus system",
+        "Similarity Score": 0.4294688403606415,
+        "tags": ["Freelance", "Mahir", "Produk"],
+        "salary": "Rp8.000.000 - Rp11.000.000",
+        "experience": "Berpengalaman minimal 3 tahun di bidang arsitektur.",
+        "location": "Bandung"
+        },
+        {
+        "title": "UI/UX Designer",
+        "company": "PT Node Solusi Teknologi",
+        "description": "Mengilustrasikan ide melalui storyboard...",
+        "qualification": "Pendidikan minimal SMA/SMK...",
+        "benefit": "Free Lunch",
+        "Similarity Score": 0.41054093837738037,
+        "tags": ["Magang", "Pemula", "Teknologi"],
+        "salary": "Rp5.500.000 - Rp7.500.000",
+        "experience": "Berpengalaman di bidang UI/UX desain.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Production Specialist",
+        "company": "PT Elita Sejahtera",
+        "description": "Perencanaan dan Penjadwalan Produksi...",
+        "qualification": "Pendidikan SMK dalam Desain Fashion...",
+        "benefit": "Competitive Salary\nMedical Insurance...",
+        "Similarity Score": 0.4098559617996216,
+        "tags": ["Penuh Waktu", "Mahir", "Produk"],
+        "salary": "Rp6.500.000 - Rp9.000.000",
+        "experience": "Memiliki pengalaman minimal 3 tahun di bidang produksi fashion.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Product Designer",
+        "company": "Kavela",
+        "description": "What You'll Do:",
+        "qualification": "Bachelor’s degree in Graphic Design...",
+        "benefit": "Medical Insurance\nCasual Dress Code...",
+        "Similarity Score": 0.4023514688014984,
+        "tags": ["Freelance", "Pemula", "Produk"],
+        "salary": "Rp6.000.000 - Rp8.500.000",
+        "experience": "Berpengalaman minimal 1 tahun di bidang desain produk.",
+        "location": "Bandung"
+        },
+        {
+        "title": "Quality Control In Process",
+        "company": "PT. PASSION ABADI KORPORA",
+        "description": "Melakukan pemeriksaan visual...",
+        "qualification": "Pendidikan minimal S1 Teknik...",
+        "benefit": "Competitive Salary\nMedical Insurance...",
+        "Similarity Score": 0.4013533592224121,
+        "tags": ["Paruh Waktu", "Mahir", "Produk"],
+        "salary": "Rp6.000.000 - Rp8.000.000",
+        "experience": "Memiliki pengalaman minimal 1 tahun di bidang Quality Control.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Computerized Stitching",
+        "company": "Pou Chen Group Indonesia",
+        "description": "Design and production of computerized sewing templates...",
+        "qualification": "At least 2 years of experience...",
+        "benefit": "Competitive Salary\nTHR / Bonus system...",
+        "Similarity Score": 0.3993915319442749,
+        "tags": ["Penuh Waktu", "Mahir", "Produk"],
+        "salary": "Rp7.000.000 - Rp9.000.000",
+        "experience": "Memiliki pengalaman minimal 2 tahun di bidang pola jahit komputerisasi.",
+        "location": "Bandung"
+        }
+    ]
+    },
+    "5": {
+    "query_text": "3D Printing Hardware",
+    "recommendations": [
+        {
+        "title": "Digital Print Designer",
+        "company": "PT. SARANAGRIYA LESTARI KERAMIK",
+        "description": "Mempersiapkan design yang akan diproduksi\nMelakukan penyesuaian warna\nMenyimpan design",
+        "qualification": "Pria, max 30 th\nPendidikan min D3\nMenguasai program design, khususnya Photosop-Mac",
+        "benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nTransportation",
+        "Similarity Score": 0.6340005397796631,
+        "tags": ["Magang", "Mahir", "Teknologi"],
+        "salary": "Rp6.000.000 - Rp8.000.000",
+        "experience": "Minimal 1 tahun pengalaman di bidang desain.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Service Desk Engineer (IT Support)",
+        "company": "Xapiens Teknologi Indonesia",
+        "description": "Provides day-to-day support for business related IT to end-users\nInstallation and configuration of Computer, OS, Printers, and Application\nAnalyze and diagnose technical issues and give fast problem resolution\nTroubleshoot and resolve issues related to computer hardware, software, networks, & printers\nCreate report and technical documentation for IT environment",
+        "qualification": "Bachelor's degree in Engineering (Computer/Electrical/Telecommunication), Computer Science/ Information Technology\nFamiliar with IT Infrastructure hardware, software and networking\nHave good knowledge about Microsoft product and cloud services\nGood analytical skills and passionate to learn new technology\nGood communication & interpersonal skills, English is an advantage",
+        "benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nPeriod Leave\nPaid Maternity / Paternity Leave\nProfessional Development\nTeam Building Activity\nCasual Dress Code",
+        "Similarity Score": 0.4139573574066162,
+        "tags": ["Penuh Waktu", "Pemula", "Data dan Produk"],
+        "salary": "Rp7.000.000 - Rp10.000.000",
+        "experience": "Pengalaman minimal 1 tahun di bidang IT support.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Arsitek",
+        "company": "PT. Richeese Kuliner Indonesia",
+        "description": "Membuat dan menyediakan perencanaan desain arsitektur...",
+        "qualification": "Pendidikan Minimal S1 Arsitektur...",
+        "benefit": "Competitive Salary\nTHR / Bonus system",
+        "Similarity Score": 0.3747269809246063,
+        "tags": ["Penuh Waktu", "Mahir", "Teknologi"],
+        "salary": "Rp8.000.000 - Rp12.000.000",
+        "experience": "Minimal 3 tahun pengalaman di bidang arsitektur.",
+        "location": "Bandung"
+        },
+        {
+        "title": "Creative Designer",
+        "company": "BINUS Group",
+        "description": "Ensure effective design of complex graphics...",
+        "qualification": "Minimum Bachelor's Degree in Visual Communication Design...",
+        "benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance",
+        "Similarity Score": 0.37009209394454956,
+        "tags": ["Paruh Waktu", "Mahir", "Data dan Produk"],
+        "salary": "Rp5.000.000 - Rp7.000.000",
+        "experience": "Memiliki pengalaman minimal 2 tahun di bidang desain grafis.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Electrical Project Technician",
+        "company": "PT Kobe Boga Utama",
+        "description": "Melakukan instalasi dan perawatan sistem kelistrikan...",
+        "qualification": "Pendidikan min. SMK Teknik Elektro...",
+        "benefit": "Competitive Salary\nTHR / Bonus system\nProfessional Development",
+        "Similarity Score": 0.3694155514240265,
+        "tags": ["Penuh Waktu", "Pemula", "Teknologi"],
+        "salary": "Rp6.000.000 - Rp9.000.000",
+        "experience": "Minimal 2 tahun pengalaman dalam instalasi listrik industri.",
+        "location": "Bandung"
+        },
+        {
+        "title": "Product Designer",
+        "company": "Kavela",
+        "description": "What You'll Do:",
+        "qualification": "Bachelor’s degree in Graphic Design...",
+        "benefit": "Medical Insurance\nCasual Dress Code\nTeam Building Activity...",
+        "Similarity Score": 0.3615608811378479,
+        "tags": ["Freelance", "Mahir", "Data dan Produk"],
+        "salary": "Rp7.000.000 - Rp10.000.000",
+        "experience": "Minimal 1 tahun pengalaman di bidang desain produk.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Design Engineer",
+        "company": "Imajin",
+        "description": "Create detailed 2D and 3D drawings...",
+        "qualification": "Min. Diploma (D3) in Mechanical or Design Engineering...",
+        "benefit": "Competitive Salary\nMedical Insurance\nCasual Dress Code...",
+        "Similarity Score": 0.35881203413009644,
+        "tags": ["Penuh Waktu", "Pemula", "Teknologi"],
+        "salary": "Rp6.000.000 - Rp8.500.000",
+        "experience": "1-2 tahun pengalaman di proyek engineering.",
+        "location": "Bandung"
+        },
+        {
+        "title": "UI/UX Designer",
+        "company": "PT Node Solusi Teknologi",
+        "description": "Mengilustrasikan ide melalui storyboard...",
+        "qualification": "Pendidikan minimal SMA/SMK sederajat...",
+        "benefit": "Free Lunch",
+        "Similarity Score": 0.35366880893707275,
+        "tags": ["Magang", "Pemula", "Data dan Produk"],
+        "salary": "Rp4.500.000 - Rp6.500.000",
+        "experience": "Memiliki pengalaman dasar di bidang desain UI/UX.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Technical Support Engineer",
+        "company": "PT. Inovasi Anak Indonesia - PARKEE",
+        "description": "Install, configure, and troubleshoot hardware...",
+        "qualification": "At least 1-year of experience as a Technical Support Engineer...",
+        "benefit": "Medical Insurance\nCompetitive Salary\nTHR / Bonus system...",
+        "Similarity Score": 0.3528991937637329,
+        "tags": ["Penuh Waktu", "Pemula", "Teknologi"],
+        "salary": "Rp6.000.000 - Rp9.000.000",
+        "experience": "Minimal 1 tahun pengalaman di bidang support teknis.",
+        "location": "Jakarta"
+        },
+        {
+        "title": "Technical Drafter Data Center",
+        "company": "Bringin Inti Teknologi",
+        "description": "Membuat gambar teknik dan dokumen terkait...",
+        "qualification": "Minimal gelar D3 dalam bidang Teknik Sipil...",
+        "benefit": "Competitive Salary\nTHR / Bonus system",
+        "Similarity Score": 0.3522565960884094,
+        "tags": ["Penuh Waktu", "Mahir", "Teknologi"],
+        "salary": "Rp7.500.000 - Rp10.000.000",
+        "experience": "Lebih dari 3 tahun pengalaman sebagai drafter teknis.",
+        "location": "Bandung"
+        }
+    ]
+    }
+
+}

@@ -1,5 +1,6 @@
 "use client";
 
+import { Suspense } from 'react';
 import Image from 'next/image';
 import { useSearchParams } from 'next/navigation';
 
@@ -13,7 +14,7 @@ const tipsData = {
   ],
   kesalahanUmum: [
     "Tidak memahami peran dan tanggung jawab dari posisi yang dilamar.",
-    "Terlalu banyak mengucapkan “hmm,” “eee,” atau terlalu lama diam karena kurang persiapan.",
+    "Terlalu banyak mengucapkan hmm, eee, atau terlalu lama diam karena kurang persiapan.",
     "Tidak melakukan riset tentang perusahaan, budaya kerja, atau produk/jasanya.",
     "Menjawab pertanyaan dengan terlalu jujur tanpa filter, misalnya mengungkapkan ketidaksukaan terhadap kerja tim.",
     "Terlalu fokus pada gaji atau keuntungan pribadi tanpa menonjolkan kontribusimu.",
@@ -21,21 +22,19 @@ const tipsData = {
   pertanyaanMenjebak: [
     { q: "Apa kelemahan terbesarmu?", a: "Jawab dengan jujur tapi tetap menunjukkan keinginan untuk berkembang." },
     { q: "Kenapa kami harus memilih kamu?", a: "Tunjukkan nilai unik yang kamu bawa dan sesuaikan dengan kebutuhan perusahaan." },
-    { q: "Apa rencana kamu lima tahun ke depan?", a: "Tunjukkan ambisi yang realistis dan relevan dengan bidang yang dilamar. Cth: “Saya ingin berkembang sebagai profesional yang mampu membawa dampak lewat teknologi dan data.”" },
+    { q: "Apa rencana kamu lima tahun ke depan?", a: "Tunjukkan ambisi yang realistis dan relevan dengan bidang yang dilamar. Cth: Saya ingin berkembang sebagai profesional yang mampu membawa dampak lewat teknologi dan data."},
   ]
 };
 
-export default function HasilSimulasiPage() {
+function HasilContent() {
   const searchParams = useSearchParams();
   const score = searchParams.get('score') || 0;
 
   return (
     <div className="bg-white py-12 px-4 md:px-12">
       <div className="max-w-4xl mx-auto">
-        
         <p className="text-lg font-semibold text-gray-700 mb-5">Skor kamu:</p>
         <h1 className="text-7xl font-bold text-pink-600 mb-12">{score}/100</h1>
-
         <div className="flex flex-col lg:flex-row gap-12">
           <div className="lg:w-2/3">
             <h2 className="text-3xl font-bold text-gray-800 mb-6">Tips Penting untuk Meningkatkan Kualitas Wawancaramu</h2>
@@ -65,9 +64,8 @@ export default function HasilSimulasiPage() {
               </div>
             </div>
           </div>
-
           <div className="lg:w-1/3 flex items-start justify-center">
-            <Image 
+            <Image
               src="/images/tips-illustration.svg"
               alt="Ilustrasi Tips Wawancara"
               width={300}
@@ -75,8 +73,15 @@ export default function HasilSimulasiPage() {
             />
           </div>
         </div>
-
       </div>
     </div>
+  );
+}
+
+export default function HasilSimulasiPage() {
+  return (
+    <Suspense fallback={<div className="flex justify-center items-center min-h-screen">Loading...</div>}>
+      <HasilContent />
+    </Suspense>
   );
 }

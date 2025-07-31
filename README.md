@@ -11,13 +11,13 @@ This project is deployed here: https://her-karir.vercel.app/
 A Next.js-based job recommendation and career platform that provides personalized learning courses, job opportunities, career preferences, and skill recommendations.  
 
 ## 📌 Features  
-✅ **Course Recommendations** – Fetches and displays course recommendation
-✅ **Learning and Assessment** – Learning page and pre, mid, post assessment
-✅ **Job Recommendations** – Fetches and displays job opportunities
-✅ **Filters & Search** – Users can filter jobs by salary, job type, location, and industry  
-✅ **Job Application Modal** – Apply to jobs with a form (name, email, CV, portfolio)  
-✅ **Career Preferences** – Saves user preferences like skills, goals, and interests  
-✅ **Certificate Page** – Downloadable certificate overview  
+- **Course Recommendations** – Fetches and displays course recommendation
+- **Learning and Assessment** – Learning page and pre, mid, post assessment
+- **Job Recommendations** – Fetches and displays job opportunities
+- **Filters & Search** – Users can filter jobs by salary, job type, location, and industry  
+- **Job Application Modal** – Apply to jobs with a form (name, email, CV, portfolio)  
+- **Career Preferences** – Saves user preferences like skills, goals, and interests  
+- **Certificate Page** – Downloadable certificate overview  
 
 ---
 
@@ -65,8 +65,7 @@ D:\Code\G...
 
 ### 1. Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/job-platform.git
-cd job-platform
+git clone https://github.com/najwakahanifatima/HerKarir-FinalProject.git
 ```
 ### 2. Install Dependencies
 ```sh

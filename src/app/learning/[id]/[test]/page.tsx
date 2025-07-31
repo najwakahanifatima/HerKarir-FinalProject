@@ -16,26 +16,25 @@ const dummyCorrectAnswers = ["True", "False", "False", "True", "True"];
 interface AssessmentPageProps {
   params: {
     id: string;
-    testType: string;
+    test: string; // should match the [test] folder name
   };
 }
 
 export default function AssessmentPage({ params }: AssessmentPageProps) {
-  const { id: _id, testType } = params;
-  const courseTitle = decodeURIComponent(params.id as string)
+  const { id, test } = params;
+  const courseTitle = decodeURIComponent(id);
 
   let testTitle = '';
-  if (testType === 'pre-test') {
-    testTitle = 'Pre-Test: Menilai Kesiapan Anda'
-  } else if (testType === 'mid-test') {
-    testTitle = 'Mid-Test: Mengukur Hasil Belajar Anda Sejauh Ini'
+  if (test === 'pre-test') {
+    testTitle = 'Pre-Test: Menilai Kesiapan Anda';
+  } else if (test === 'mid-test') {
+    testTitle = 'Mid-Test: Mengukur Hasil Belajar Anda Sejauh Ini';
   } else {
-    testTitle = 'Post-Test: Menilai Hasil Belajar Anda'
+    testTitle = 'Post-Test: Menilai Hasil Belajar Anda';
   }
 
   return (
     <section className="flex flex-col gap-6 mx-64 my-10">
-      {/* Back Button */}
       <button
         className="flex items-center text-gray-400 cursor-pointer"
         onClick={() => history.back()}
@@ -43,7 +42,6 @@ export default function AssessmentPage({ params }: AssessmentPageProps) {
         <ArrowLeft className="mr-2" size={18} /> Back
       </button>
 
-      {/* Assessment Card */}
       <div className="flex justify-center">
         <AssessmentCard
           title={testTitle}
@@ -55,3 +53,4 @@ export default function AssessmentPage({ params }: AssessmentPageProps) {
     </section>
   );
 }
+

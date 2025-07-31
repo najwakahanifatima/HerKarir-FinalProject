@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "Coba ceritakan tentang diri kamu",
+    "topic": "perkenalan diri"
+  },
+  {
+    "id": 2,
+    "question": "Apa kekuatan utama yang kamu miliki dalam pekerjaan?",
+    "topic": "kekuatan diri"
+  },
+  {
+    "id": 3,
+    "question": "Ceritakan saat kamu menghadapi tantangan dalam pekerjaan dan bagaimana cara mengatasinya.",
+    "topic": "menghadapi tantangan"
+  },
+  {
+    "id": 4,
+    "question": "Mengapa kami harus memilih kamu untuk posisi ini?",
+    "topic": "nilai tambah kandidat"
+  },
+  {
+    "id": 5,
+    "question": "Apa rencana karier kamu dalam 5 tahun ke depan?",
+    "topic": "rencana masa depan"
+  }
+]

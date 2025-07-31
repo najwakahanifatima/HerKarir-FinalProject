@@ -9,36 +9,31 @@ import FeaturesSection from '@/components/FeaturesSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
 import CtaSection from '@/components/CtaSection';
 import HeroSection from '@/components/HeroSection';
-
-// Tipe data
-type CourseFromML = {
-  Title: string;
-  Institution: string;
-};
+import { Recommendation } from '@/app/page';
 
 type MockData = {
   learningProgress: any[];
   recommendedCourses: any[];
-  // tambahkan tipe lain jika perlu
 };
 
 type HomePageClientProps = {
-  allCourses: CourseFromML[];
+  recommendedCourses: Recommendation[];
   mockData: MockData;
 };
 
-export default function HomePageClient({ allCourses, mockData }: HomePageClientProps) {
+export default function HomePageClient({ recommendedCourses, mockData }: HomePageClientProps) {
   const { user } = useAuth();
-  const [displayedCourses, setDisplayedCourses] = useState<CourseFromML[]>([]);
+  const [displayedCourses, setDisplayedCourses] = useState<Recommendation[]>([]);
   
   const learningProgress = mockData.learningProgress;
   const courseImages = mockData.recommendedCourses.map(course => course.image);
   const providerLogos = mockData.recommendedCourses.map(course => course.providerLogo);
 
    useEffect(() => {
-    // Sekarang, baik sudah login maupun belum, selalu tampilkan 10 data teratas
-    setDisplayedCourses(allCourses.slice(0, 10));
-  }, [user, allCourses]);
+    setDisplayedCourses(recommendedCourses);
+  }, [user, recommendedCourses]);
+
+  console.log('recommended course ', recommendedCourses);
 
   return (
     <>

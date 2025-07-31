@@ -7,12 +7,14 @@ export interface CourseCardProps {
   title: string;
   institution: string;
   imagePath: string;
+  providerLogo?: string;
 }
 
 export const CourseCard = ({
   title,
   institution,
-  imagePath
+  imagePath,
+  providerLogo = "/logos/microsoft.svg"
 }: CourseCardProps) => {
   const router = useRouter();
   const handleStart = () => {
@@ -25,7 +27,15 @@ export const CourseCard = ({
       {/* Title + Institution + Button */}
       <div className="flex flex-col gap-2 items-start w-full sm:w-2/3 text-center sm:text-left">
         <span className="text-sm font-semibold w-full">{title}</span>
-        <span className="text-[10px] text-gray-500 w-full">{institution}</span>
+        <div className="flex gap-1 items-center">
+          <Image
+            src={providerLogo}
+            alt={institution}
+            width={20}
+            height={20}
+          />
+          <span className="text-[10px] text-gray-500 w-full">{institution}</span>
+        </div>
         <button 
           onClick={handleStart}
           className="mt-1 border border-[#C9184A] text-[#C9184A] cursor-pointer 

@@ -19,9 +19,8 @@ export default function Navbar() {
   //Tambahkan properti 'protected' untuk menandai link yang butuh login
   const navLinks = [
     { href: '/', label: 'Beranda', protected: false },
-    { href: '#', label: 'Kategori', protected: true },
-    { href: '#', label: 'Pelatihan', protected: true },
-    { href: '#', label: 'Cari Kerja', protected: true },
+    { href: '/course', label: 'Kursus', protected: true },
+    { href: '/seek-jobs', label: 'Cari Kerja', protected: true },
     { href: '/simulasi-wawancara', label: 'Simulasi Wawancara', protected: true },
   ];
 
@@ -63,7 +62,7 @@ export default function Navbar() {
       </Link>
       
 
-      <div className="hidden lg:flex items-center gap-8 text-gray-700 font-medium">
+      <div className="hidden lg:flex items-center gap-15 text-gray-700 font-medium">
         {navLinks.map((link) => (
           <a // 5. Ganti <Link> menjadi <a> untuk kontrol klik manual
             key={link.label} 

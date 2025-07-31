@@ -76,9 +76,13 @@ export default function CourseDetailPage() {
                         <span className="flex gap-1"> <UserRound fill="black" size={15}/> {course.Enrolled} </span>
                     </div>
                     <p className="font-semibold mt-5"> Sudah selecai cari pelatihan? Cari kerja sekarang! </p>
-                    <div className="flex gap-2 items-center">
-                        <button className="rounded-xl bg-[#C9184A] text-white px-4 py-3 text-[12px] cursor-pointer transition transform hover:-translate-y-1"> Cari Kerja </button>  
+                    <div className="flex gap-3 items-center">
+                        <button className="rounded-xl bg-[#C9184A] text-white px-4 py-3 text-[12px] cursor-pointer transition transform hover:-translate-y-1"
+                            onClick={() => {router.push('/course/certificate')}}
+                        > Unduh Sertifikat </button>
+                        <button className="rounded-xl bg-[#C9184A] text-white px-4 py-3 text-[12px] cursor-pointer transition transform hover:-translate-y-1"> Cari Kerja </button>
                         <span className="text-[10px] text-[#C9184A]"> *Tombol aktif setelah kamu <br/> mendapatkan sertifikat. </span>
+
                     </div>
                 </div>
 

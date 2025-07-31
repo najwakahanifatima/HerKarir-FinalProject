@@ -11,63 +11,63 @@
       "title": "Dasar-Dasar Manajemen Produk", 
       "provider": "Microsoft", 
       "providerLogo": "/logos/microsoft.svg", 
-      "image": "/images/image1.svg" 
+      "image": "image1.svg" 
     },
     { 
       "id": 2, 
       "title": "Manajemen Produk Agile dengan Scrum", 
       "provider": "Meta", 
       "providerLogo": "/logos/meta.svg", 
-      "image": "/images/image2.svg" 
+      "image": "image2.svg" 
     },
     { 
       "id": 3, 
       "title": "Desain Produk yang Berpusat Pelanggan", 
       "provider": "IBM", 
       "providerLogo": "/logos/ibm.svg", 
-      "image": "/images/image3.svg" 
+      "image": "image3.svg" 
     },
     { 
       "id": 4, 
       "title": "Manajemen Produk Strategis", 
       "provider": "Google", 
       "providerLogo": "/logos/google.svg", 
-      "image": "/images/image4.svg" 
+      "image": "image4.svg" 
     },
     { 
       "id": 5, 
       "title": "Dasar-Dasar Manajemen Produk", 
       "provider": "Microsoft", 
       "providerLogo": "/logos/microsoft.svg", 
-      "image": "/images/image5.svg" 
+      "image": "image5.svg" 
     },
     { 
       "id": 6, 
       "title": "Dasar-Dasar Manajemen Produk", 
       "provider": "Microsoft", 
       "providerLogo": "/logos/microsoft.svg", 
-      "image": "/images/image6.svg" 
+      "image": "image6.svg" 
     },
     { 
       "id": 7, 
       "title": "Dasar-Dasar Manajemen Produk", 
       "provider": "Microsoft", 
       "providerLogo": "/logos/microsoft.svg", 
-      "image": "/images/image7.svg" 
+      "image": "image7.svg" 
     },
     { 
       "id": 8, 
       "title": "Dasar-Dasar Manajemen Produk", 
       "provider": "Microsoft", 
       "providerLogo": "/logos/microsoft.svg", 
-      "image": "/images/image8.svg" 
+      "image": "image8.svg" 
     },
     { 
       "id": 9, 
       "title": "Dasar-Dasar Manajemen Produk", 
       "provider": "Microsoft", 
       "providerLogo": "/logos/microsoft.svg", 
-      "image": "/images/image9.svg" 
+      "image": "image9.svg" 
     }
   ],
   "features": [

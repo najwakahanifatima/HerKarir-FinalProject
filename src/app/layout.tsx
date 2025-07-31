@@ -15,6 +15,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "HerKarir",
   description: "Upgrade your skill with HerKarir",
+  icons: {
+    icon: '/favicon.svg',
+  },
 }
 
 export default function RootLayout({

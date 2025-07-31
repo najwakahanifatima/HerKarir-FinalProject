@@ -1,13 +1,13 @@
 "use client";
 import { useState, useEffect } from "react";
 import JobCard from "@/components/JobCard";
-import JobFilter from "@/components/JobFilter";
+import JobFilter, { JobFilters } from "@/components/JobFilter";
 
 export interface JobRecommendation {
   title: string;
   company: string;
   description: string;
-  qualification: string;
+  qualifications: string;
   benefit: string;
   similarityScore: number;
   tags: string[];
@@ -17,18 +17,24 @@ export interface JobRecommendation {
 }
 
 export default function JobOpportunitiesPage() {
-  const [filters, setFilters] = useState<any>({});
+  const [filters, setFilters] = useState<JobFilters>({});
   const [recommendations, setRecommendations] = useState<JobRecommendation[]>([]);
 
   useEffect(() => {
     fetch("/data/jobs_recommendation.json")
       .then((res) => res.json())
       .then((data) => {
-        setRecommendations(data["2"].recommendations);
+        setRecommendations(data["2"].recommendations as JobRecommendation[]);
       });
   }, []);
 
-  console.log("recs ", recommendations)
+  const activeFilters = Object.entries(filters)
+    .map(([_, value]) => {
+      if (Array.isArray(value)) return value;
+      if (typeof value === "string" && value.trim() !== "") return [value];
+      return [];
+    })
+    .flat();
 
   return (
     <div className="p-8 grid grid-cols-[1fr_280px] gap-8">
@@ -39,17 +45,14 @@ export default function JobOpportunitiesPage() {
 
         {/* Active Filters */}
         <div className="flex flex-wrap gap-2 mb-6">
-          {Object.values(filters).length > 0 &&
-            Object.values(filters)
-              .flat()
-              .map((f: any) => (
-                <span
-                  key={f}
-                  className="bg-pink-100 text-pink-700 text-sm px-3 py-1 rounded-full"
-                >
-                  {f} ✕
-                </span>
-              ))}
+          {activeFilters.map((f) => (
+            <span
+              key={f}
+              className="bg-pink-100 text-pink-700 text-sm px-3 py-1 rounded-full"
+            >
+              {f} ✕
+            </span>
+          ))}
         </div>
 
         {/* Job List */}

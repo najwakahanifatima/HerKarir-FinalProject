@@ -23,7 +23,6 @@ export const AssessmentCard = ({
   const [answeredIndex, setAnsweredIndex] = useState<number[]>([])
   const [isSubmitted, setIsSubmitted] = useState(false)
   const [score, setScore] = useState(0)
-  const router = useRouter();
 
   const handleAnswer = (index: number, answer: string) => {
     const updatedAnswers = [...userAnswers]

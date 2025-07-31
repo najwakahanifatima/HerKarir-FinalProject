@@ -2,7 +2,6 @@
 
 import { AssessmentCard } from "@/components/AssessmentCard";
 import { ArrowLeft } from "lucide-react";
-import { useRouter } from "next/navigation";
 
 const dummyQuestions = [
   "User feedback and data should be a key input when making product decisions.",
@@ -22,7 +21,7 @@ interface AssessmentPageProps {
 }
 
 export default function AssessmentPage({ params }: AssessmentPageProps) {
-  const { id, testType } = params;
+  const { id: _id, testType } = params;
   const courseTitle = decodeURIComponent(params.id as string)
 
   let testTitle = '';

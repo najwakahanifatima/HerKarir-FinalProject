@@ -4,10 +4,6 @@ import { JobRecommendation } from "@/app/job-opportunities/page";
 export default function JobCard({
   title,
   company,
-  description,
-  qualification,
-  benefit,
-  similarityScore,
   tags,
   salary,
   experience,

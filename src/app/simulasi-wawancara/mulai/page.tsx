@@ -157,7 +157,7 @@ export default function MulaiSimulasiPage() {
                             Kirim dan Lanjutkan
                         </button>
                     </div>
-                    <p className="mt-4 text-xs text-gray-500">Catatan: Klik "Stop Merekam" sebelum "Kirim dan Lanjutkan".</p>
+                    <p className="mt-4 text-xs text-gray-500">Catatan: Klik Stop Merekam sebelum Kirim dan Lanjutkan.</p>
                 </div>
             </div>
         </div>

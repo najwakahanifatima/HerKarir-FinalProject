@@ -2,8 +2,6 @@
 
 import { useState, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
-import Image from 'next/image';
-import Link from 'next/link';
 import AudioVisualizer from '@/components/AudioVisualizer';
 
 // Definisikan tipe untuk props Step1 dan Step2
@@ -117,12 +115,12 @@ const Step2 = ({ audioOk, setAudioOk, envOk, setEnvOk, internetOk, setInternetOk
         setPing(null);
         const startTime = Date.now();
         try {
-            // Kita fetch file kecil dari website kita sendiri untuk tes
             await fetch('/favicon.ico', { cache: 'no-store' }); 
             const endTime = Date.now();
             setPing(endTime - startTime);
         } catch (error) {
-            setIsOnline(false); // Jika fetch gagal, kemungkinan offline
+          console.log(error)
+            setIsOnline(false);
         }
         setIsCheckingPing(false);
     };
@@ -193,7 +191,7 @@ const Step2 = ({ audioOk, setAudioOk, envOk, setEnvOk, internetOk, setInternetOk
                                 <AudioVisualizer stream={audioStream} width={200} height={40} />
                             ) : (
                                 <div className="w-[200px] h-[40px] flex items-center justify-center">
-                                    <p className="text-xs text-gray-500">Klik "tes"</p>
+                                    <p className="text-xs text-gray-500">Klik tes</p>
                                 </div>
                             )}
                         </div>

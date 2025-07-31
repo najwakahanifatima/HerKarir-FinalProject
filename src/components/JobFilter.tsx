@@ -1,4 +1,17 @@
-export default function JobFilter({ filters, setFilters }: any) {
+export interface JobFilters {
+  minSalary?: string;
+  maxSalary?: string;
+  jobType?: string[];
+  location?: string;
+  industry?: string;
+}
+
+interface JobFilterProps {
+  filters: JobFilters;
+  setFilters: React.Dispatch<React.SetStateAction<JobFilters>>;
+}
+
+export default function JobFilter({ filters, setFilters }: JobFilterProps) {
   return (
     <div className="border rounded-xl p-4 shadow-md w-64">
       <div className="flex justify-between mb-3">
@@ -38,7 +51,7 @@ export default function JobFilter({ filters, setFilters }: any) {
               setFilters({
                 ...filters,
                 jobType: filters.jobType?.includes(type)
-                  ? filters.jobType.filter((t: string) => t !== type)
+                  ? filters.jobType.filter((t) => t !== type)
                   : [...(filters.jobType || []), type],
               })
             }

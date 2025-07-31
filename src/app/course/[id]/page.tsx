@@ -19,7 +19,7 @@ export default function CourseDetailPage() {
     const router = useRouter();
     const { id } = useParams();
     const [course, setCourse] = useState<CourseProps | null>(null);
-    let randomNumber = Math.floor(Math.random() * images.length);
+    const randomNumber = Math.floor(Math.random() * images.length);
     const imagePath = `/courses/${images[randomNumber]}`;
 
     useEffect(() => {

@@ -11,10 +11,24 @@ import CtaSection from '@/components/CtaSection';
 import HeroSection from '@/components/HeroSection';
 import { Recommendation } from '@/app/page';
 
-type MockData = {
-  learningProgress: any[];
-  recommendedCourses: any[];
+type CourseMock = {
+  id: string;
+  title: string;
+  image: string;
+  provider: string;
+  providerLogo: string;
 };
+
+type MockData = {
+  learningProgress: {
+    id: string;
+    icon: string;
+    title: string;
+    progress: number;
+  }[];
+  recommendedCourses: CourseMock[];
+};
+
 
 type HomePageClientProps = {
   recommendedCourses: Recommendation[];

@@ -22,7 +22,7 @@ export const ModuleList = ( { modulesName, title }: ModuleListProps ) => {
         <section className="text-sm">
             <button className="border-[1px] border-[#D9D9D9] rounded-lg w-full my-1.5 p-5 text-[#C9184A] font-semibold
                 hover:bg-[#C9184A] hover:text-white transition cursor-pointer text-left"
-                onClick={() => {router.push(`/learning/${title}`)}}
+                onClick={() => {router.push(`/learning/${title}/pre-test`)}}
             >
                 Pre-Test: Menilai Kesiapan Anda      
             </button>
@@ -37,7 +37,7 @@ export const ModuleList = ( { modulesName, title }: ModuleListProps ) => {
             ))}
             <button className="border-[1px] border-[#D9D9D9] rounded-lg w-full my-1.5 p-5 text-[#C9184A] font-semibold
                 hover:bg-[#C9184A] hover:text-white transition cursor-pointer text-left"
-                onClick={() => {router.push(`/learning/${title}`)}}
+                onClick={() => {router.push(`/learning/${title}/mid-test`)}}
             >
                 Mid-Test: Mengukur Hasil Belajar Anda Sejauh Ini    
             </button>
@@ -52,7 +52,7 @@ export const ModuleList = ( { modulesName, title }: ModuleListProps ) => {
             ))}
             <button className="border-[1px] border-[#D9D9D9] rounded-lg w-full my-1.5 p-5 text-[#C9184A] font-semibold
                 hover:bg-[#C9184A] hover:text-white transition cursor-pointer text-left"
-                onClick={() => {router.push(`/learning/${title}`)}}
+                onClick={() => {router.push(`/learning/${title}/post-test`)}}
             >
                 Post-Test: Menilai Hasil Belajar Anda    
             </button>

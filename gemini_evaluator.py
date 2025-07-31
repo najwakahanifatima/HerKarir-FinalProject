@@ -58,17 +58,13 @@ def evaluate_video(path, question, topic):
     full_text = response.text.strip()
 
     def extract_section(text, section_title):
-        try:
-            start = text.index(f"**{section_title}")
-            next_marker = text.index("**", start + 2)
-            end = text.index("**", next_marker + 2) if "**" in text[next_marker + 2:] else len(text)
-            return text[next_marker:end].strip()
-        except:
-            return ""
+        pattern = rf"\*\*{re.escape(section_title)}\*\*\s*(.*?)(?=\n\*\*|$)"
+        match = re.search(pattern, text, re.DOTALL)
+        return match.group(1).strip() if match else ""
 
     return {
         "full_text": full_text,
-        "transkrip": extract_section(full_text, "Transkrip Video")
+        "transkrip": extract_section(full_text, "Transkrip Video"),
         "tips": extract_section(full_text, "Tips Sukses Wawancara Umum"),
         "kesalahan_umum": extract_section(full_text, "Kesalahan Umum dalam Wawancara"),
         "pertanyaan_jebakan": extract_section(full_text, "Contoh Pertanyaan Jebakan")

@@ -14,14 +14,14 @@ const dummyQuestions = [
 const dummyCorrectAnswers = ["True", "False", "False", "True", "True"];
 
 interface AssessmentPageProps {
-  params: {
+  params: Promise<{
     id: string;
-    test: string; // should match the [test] folder name
-  };
+    test: string;
+  }>;
 }
 
-export default function AssessmentPage({ params }: AssessmentPageProps) {
-  const { id, test } = params;
+export default async function AssessmentPage({ params }: AssessmentPageProps) {
+  const { id, test } = await params;
   const courseTitle = decodeURIComponent(id);
 
   let testTitle = '';
@@ -53,4 +53,3 @@ export default function AssessmentPage({ params }: AssessmentPageProps) {
     </section>
   );
 }
-

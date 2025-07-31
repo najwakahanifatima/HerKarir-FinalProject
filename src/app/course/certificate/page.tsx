@@ -4,11 +4,10 @@ import { useRouter } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 import Image from "next/image";
 
-export default function CertificatePage({ params }: { params: { id: string } }) {
+export default function CertificatePage() {
   const router = useRouter();
 
   const certificate = {
-    id: params.id,
     course: "3D Interaction Design in Virtual Reality",
     imageUrl: "/courses/certificate-dummy.png",
   };

@@ -1,0 +1,427 @@
+{
+    "1": {
+        "query_text": ".NET FullStack Developer",
+        "recommendations": [
+            {
+                "Job Title": "Software Engineer (Fullstack)",
+                "Company": "Sprout Digital Labs",
+                "Job Description": "Provide technical leadership in a fast-moving, data-driven environment.  \nYou will be deeply engaged in the full development lifecycle designing, developing, testing, deploying, maintaining, monitoring, and improving the software.  \nWrite well-formatted modular code  \nCompile and integrate changes with the project  \nUse suitable data structures \nPerform, debug and fix bugs, competency in a programming language \nDeveloping new user-facing features using React.js, Nextjs, Flutter web  \nDeveloping API using Expressjs, Strapi \nBuilding reusable components and back-end service or microservice for future use \nBuilding reusable components and front-end libraries for future use  \nTranslating designs and wireframes into high quality code \nOptimizing components for maximum performance across a vast array of web-capable devices and browsers  \nWork with outside data source with APIs",
+                "Qualification": "Bachelor's degree in Computer science or equivalent degree.\nExperience in web technologies using React.js, Nextjs, Flutter web.\nProficient knowledge of the back-end programming techstack such as nodejs, express, sequelize, Sql & no SQL DB\nDesign and build advanced applications for the Web platform and build complex monolith or microservices on backend platform.\nBuilding reusable frontend components and reusable backend services for future use.\nGood Algorithm knowledge\nExperience with version control",
+                "Benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nPeriod Leave\nTeam Building Activity\nCasual Dress Code\nCompany Outings\nSelf-development Allowance",
+                "Similarity Score": 0.6729831695556641
+            },
+            {
+                "Job Title": "Software - Engineer",
+                "Company": "The Flex",
+                "Job Description": "Full-Stack Development: Design, develop, and maintain scalable web applications using Node.js and React.\nDeployment & Cloud Management: Deploy and manage applications on AWS Cloud, utilizing serverless architecture.\nAPI Development: Design, implement, and optimize RESTful APIs using FastAPI (Python optional) and other modern frameworks.\nAutomation & Scripting: Build automation tools to streamline development processes.\nProblem-Solving & Debugging: Analyze complex problems, identify root causes, and implement efficient solutions.\nCollaboration & Communication: Work closely with cross-functional teams to ensure seamless integration and execution of key projects.\nCode Quality & Best Practices: Implement CI/CD pipelines, conduct code reviews, and ensure best practices in Git, testing, and software quality assurance.",
+                "Qualification": "Proficiency in Node.js, React, and AWS Cloud.\nExperience with serverless applications and cloud infrastructure.\nStrong problem-solving skills and ability to quickly learn new technologies.\nFamiliarity with FastAPI, Python, and scripting is a plus.\nUnderstanding of modern software development practices (CI/CD, testing, Git).\nExcellent communication and collaboration skills.\nAdaptability and a proactive, solution-oriented mindset.",
+                "Benefit": "Competitive Salary\nMedical Insurance\nProfessional Development",
+                "Similarity Score": 0.6452447175979614
+            },
+            {
+                "Job Title": "Fullstack Developer",
+                "Company": "AssistX Enterprise",
+                "Job Description": "Membangun perangkat lunak yang kuat dan dapat ditingkatkan dengan membuat fitur baru, melakukan debugging, dan mengoptimalkan aplikasi\nMengembangkan dan mengusulkan produk atau fitur baru dengan memantau industri\nMembuat kode untuk mengembangkan aplikasi web fungsional di perangkat mobile dan desktop\nImplementasi keamanan dan perlindungan data\nDesain dan implementasi solusi penyimpanan data\nBekerja sama dengan desainer, manajer produk, dan administrator sistem untuk mengidentifikasi dan membangun fitur baru",
+                "Qualification": "Pendidikan minimal S1 Ilmu komputer/ Sistem Informasi/ Informasi teknologi\nPengalaman minimal 1 tahun di bidang yang sama\nPengalaman yang sangat baik dengan React dan Remix\nKemampuan dan pengalaman dalam HTML, Tailwind CSS, RemixJS, ShadCN, dan Javascript\nKemampuan dalam menggunakan framework Javascript seperti AngularJS\nPengetahuan dan pengalaman yang kuat dalam bahasa pemrograman sisi server\nFamiliaritas dengan mesin database seperti MySQL, SQL Server\nFamiliar dengan layanan hosting web seperti AWS\nMemiliki pengalaman dengan Golang dan cloud platforms",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nPeriod Leave",
+                "Similarity Score": 0.6328955888748169
+            },
+            {
+                "Job Title": "Full Stack Developer",
+                "Company": "United Creative",
+                "Job Description": "Develop and maintain scalable web applications using modern technologies\nCollaborate with UI/UX designers, product managers, and other developers\nWrite clean, maintainable, and well-documented code\nOptimize applications for speed and scalability\nDesign and manage APIs and databases\nPerform testing and debugging of applications\nStay up-to-date with emerging technologies and propose technical solutions",
+                "Qualification": "Proven experience as a Full Stack Developer or similar role\nProficiency with front-end languages such as HTML, CSS, JavaScript\nProficiency with back-end languages such as Node.js, PHP\nFamiliarity with databases (e.g., MySQL, PostgreSQL, MongoDB)\nExperience with RESTful APIs or GraphQL\nKnowledge of version control systems (e.g., Git)\nUnderstanding of deployment and CI/CD tools (e.g., Docker, Jenkins, etc.)\nAbility to work independently and in a team environment\nStrong problem-solving skills and attention to detail\nPreferred Qualifications (Nice to Have)\nExperience with cloud platforms (Huawei Cloud & Ali Cloud)\nFamiliarity with Agile/Scrum methodologies\nExperience in mobile development (e.g., React Native or Flutter)\nBasic knowledge of DevOps practices\nUnderstanding of security best practices in web development",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nPeriod Leave",
+                "Similarity Score": 0.5868250131607056
+            },
+            {
+                "Job Title": "Fullstack Go Javascript Developer",
+                "Company": "ITOMMEY Group",
+                "Job Description": "Fullstack Development: Design, develop, test, and deploy software solutions, covering both back-end and front-end components.\nProgramming Languages: Proficiency in Golang and PHP, with the ability to write clean, efficient, and maintainable code.\nSystem Design: Lead system analysis, design, and architecture efforts, ensuring robust and scalable solutions.\nContainerization and Microservices: Apply containerization principles and work with microservices architectures.\nExperience with Kubernetes is a plus.\nTeam Leadership: Lead and mentor small development teams, fostering collaboration and achieving project goals.\nBanking Experience: Leverage prior experience in the banking sector to contribute insights and solutions.",
+                "Qualification": "Bachelor Degree (S1) In Computer Science, Software Engineering Or A Related Fields Is A Must.\nMinimum 1 Years Of Professional Experience In Fullstack Developer\nExpert In Go Lang And PHP is A must\nStrong Understanding of system design principles and have ability to create robust Architectures\nFamiliar with Conaninerization tool, Microservices Architectures and Kubernetes.\nHave ability to tlead a team\nHave an banking experience is a plus\nFamiliar With frontend Javascript Tecnology\nHave A Knowledge with cloud Platform, DevOps Practices and Tools\nHave an Excellent Communication Skill dan collaboration Skills\nHave An Certificate is A Point Plus\nWilling Be Placed in South Jakarta",
+                "Benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+                "Similarity Score": 0.5857535600662231
+            },
+            {
+                "Job Title": "Fullstack Developer",
+                "Company": "ITOMMEY Group",
+                "Job Description": "Work with developers to design algorithms and flowcharts\nProduce clean, efficient code based on specifications\nIntegrate software components and third-party programs\nVerify and deploy programs and systems\nTroubleshoot, debug and upgrade existing software\nGather and evaluate user feedback\nRecommend and execute improvements\nCreate technical documentation for reference and reporting",
+                "Qualification": "Bachelor Degree (S1) Degree in Technology/Technical/lnformation System/ Other related educations.\nMin 1 years working experience as a Software Engineer, Back End or Similar role is a must!\nFamiliarity with Sprint or Agile development methodologies\nExperience with software design and development\nKnowledge of frameworks/systems (e.g. NodeJS, ExpressJS, etc)\nHave deep SQL skills for Sql Server/Mysql/PostgreSql etc\nAbility to learn new languages and technologies\nGood communication skills\nResourcefulness and troubleshooting aptitude\nAttention to detail",
+                "Benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+                "Similarity Score": 0.5840919017791748
+            },
+            {
+                "Job Title": "Fullstack Web Developer",
+                "Company": "PT Gree Electric Appliances Indonesia",
+                "Job Description": "Responsible for the front-end WEB and back-end function development, and complete product requirements efficiently and correctly\nParticipate in the construction of technical framework;\nAssist in configuring the server;\nAssist in managing the project development process",
+                "Qualification": "Bachelor's degree in Computer Science, Software Engineering from reputable university\nMinimum 3 years of experience developing web-based applications\nProficient level knowledge in PHP, HTML5, CSS, JavaScript\nProficient with React, Bootstrap\nProficient with Mysql, Nginx,Linux\nSelf-motivating and self-learning\nFluent in English will be an advantages (minimum can communicate well in english)\nAble to handle work pressure",
+                "Benefit": "Period Leave\nTeam Building Activity\nCasual Dress Code\nPaid Maternity / Paternity Leave\nEmployee Discounts\nCompetitive Salary\nTHR / Bonus system\nProfessional Development\nCompany Outings",
+                "Similarity Score": 0.5801753997802734
+            },
+            {
+                "Job Title": "Full Stack Developer",
+                "Company": "PT. Mandiri International Technology",
+                "Job Description": "Develop and maintain scalable web applications using React (frontend) and Golang (backend)\nDesign and build efficient, secure RESTful APIs using Golang\nIntegrate frontend UI with backend services seamlessly\nCollaborate with UI/UX designers to implement responsive and intuitive interfaces\nConduct unit testing, debugging, and support issue resolution\nParticipate in code reviews and help establish development best practices\nMaintain technical documentation of code, architecture, and development processes\nEngage in agile/scrum ceremonies such as sprint planning, daily stand-ups, and retrospectives",
+                "Qualification": "Bachelor’s degree in Information Technology, Computer Science, or a related field\nMinimum 3 years of experience as a Fullstack Developer\nProficient in React.js (including Hooks, Redux, Component Lifecycle)\nStrong experience in Golang using frameworks such as Gin, Echo, or Fiber\nSolid experience in building and consuming RESTful APIs\nFamiliar with relational databases such as PostgreSQL / MySQL\nComfortable using Git for version control\nUnderstanding of CI/CD, unit testing, and Agile methodologies\nExperience using tools like Jira, Confluence, Postman\nAble to work both independently and in a team environment",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance\nTeam Building Activity\nTransportation\nDental Insurance\nCompany Outings\n-",
+                "Similarity Score": 0.5789563059806824
+            },
+            {
+                "Job Title": ".NET Developer",
+                "Company": "First Resources Ltd.",
+                "Job Description": "Develop aplikasi berbasis .Net\nDesain database\nAnalisa dan membuat dokumentasi teknis terkait pekerjaan",
+                "Qualification": "Pendidikan minimal S1 Teknologi Informasi, Sistem Informasi, atau jurusan terkait lainnya\nBerpengalaman sebagai Software Developer minimal 2 tahun\nMemiliki pemahaman C#, SQL, ASP. Net, konsep microservice & API\nMemiliki pemahaman terkait pembuatan dokumentasi flowchart dan data flow diagram",
+                "Benefit": "Period Leave\nMedical Insurance",
+                "Similarity Score": 0.5749985575675964
+            },
+            {
+                "Job Title": "Full Stack Developer",
+                "Company": "Kharisma Potensia Indonesia",
+                "Job Description": "Job Description:\nThe Full Stack Developer will take ownership of both server-side and client-side components of our app/platform, with a primary focus on backend development. This role requires deep experience in building scalable APIs, managing databases, and implementing robust backend logic. On the frontend, the developer will leverage AI-powered tools and UI frameworks/templates for rapid development, with the ability to customize and fine-tune components to meet specific UX/UI needs. Collaboration with cross-functional teams is crucial to ensure a seamless and performant user experience.\nKey Responsibilities:",
+                "Qualification": "Bachelor’s degree in Computer Science, Engineering, or a related field.\n1-3 years of experience in full stack or backend development.\nStrong proficiency in server-side languages such as Node.js or Python.\nSolid experience with relational databases (e.g., MySQL, PostgreSQL).\nFamiliarity with frontend frameworks (e.g., React, Vue.js) and experience using AI-based development tools for UI generation and scaffolding.\nUnderstanding of HTML, CSS, and JavaScript for UI customization.\nKnowledge of web security best practices and data protection techniques.\nExperience with Git for version control and collaborative development.\nExposure to cloud platforms (AWS, GCP, etc.) and DevOps practices is a plus.\nAbility to adapt templates and generated code to match business and design needs.",
+                "Benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system\nPaid Sick Days",
+                "Similarity Score": 0.5733383893966675
+            }
+        ]
+    },
+    "2": {
+        "query_text": "3D Interaction Design in Virtual Reality",
+        "recommendations": [
+            {
+                "Job Title": "Visual Merchandise Project Specialist",
+                "Company": "PT. PASSION ABADI KORPORA",
+                "Job Description": "Tugas & Tanggung Jawab:\nNotes: Posisi ini membutuhkan individu yang mampu bekerja di bawah tekanan dan memiliki orientasi terhadap detail. Bersedia bekerja secara fleksibel, termasuk di luar jam kerja reguler jika diperlukan untuk mendukung kelancaran proyek.",
+                "Qualification": "Pendidikan min. S1 Arsitektur, Interior Design, atau jurusan relevan.\nMemiliki pengalaman kerja min. 1 tahun sebagai Visual Merchandise & Project Staff.\nMemiliki sertifikasi menjadi nilai tambah jika ada.\nSertifikasi: Tidak diwajibkan, tetapi menjadi nilai tambah jika ada.\nKomunikasi yang baik dan kemampuan bekerja sama dalam tim.\nKreativitas dalam merancang konsep desain yang inovatif dan sesuai tren pasar.\nKemampuan mengelola waktu dan multitasking untuk menangani berbagai proyek secara simultan.\nPengetahuan mendalam tentang Visual Merchandise & Project.\nKemampuan mengoperasikan software desain seperti SketchUp, AutoCAD, V-Ray, Photoshop, dan Adobe Illustrator.\nMahir menggunakan MS Office (terutama Excel dan Word) dan sistem ERP/sejenis.\nKemampuan analisis data dan pembuatan laporan.\nKemampuan berbahasa Inggris yang baik, baik lisan maupun tulisan.",
+                "Benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+                "Similarity Score": 0.48905256390571594
+            },
+            {
+                "Job Title": "3D Artist",
+                "Company": "Moladin",
+                "Job Description": "Understand 3D Anamorphic Illusion\nCreate 3D anamorphic animation\nVerify the quality of the objects and make improvements where necessary to fit technical constraints and artistic direction\nHave a 3D animation showreel\nBe able to animate in Blender",
+                "Qualification": "High competency with 3D software such as Maya/ Blender/3Dsmax\nHaving experience on any of available game engine such as Unity or Unreal\nInterested on doing research and experiment on relevant technologies and best practice to support the 3D modelling pipeline\nTeam-Player who can also work independently",
+                "Benefit": "Period Leave\nTransportation",
+                "Similarity Score": 0.47741323709487915
+            },
+            {
+                "Job Title": "Creative Designer",
+                "Company": "BINUS Group",
+                "Job Description": "Ensure effective design of complex graphics and animation, using independent judgment and creativity\nCreate basic designs, drawings, and illustrations for related multimedia production",
+                "Qualification": "Minimum Bachelor's Degree in Visual Communication Design / Design / Related studies\nMinimum 2 years of working experience\nExperience in Graphic Design\nExperience in Video Editing will be a plus point",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance",
+                "Similarity Score": 0.4742634892463684
+            },
+            {
+                "Job Title": "Graphic Design Intern",
+                "Company": "Vidio",
+                "Job Description": "Create Key Visuals for internal platforms, Vidio social media, digital ads, TV ads, and print media.\n⁠Develop and Adapt Visuals for sports events, VOD content, movies, kids, and music programs across various platforms.\n⁠Support External Communication by creating visual assets for campaigns, including banners, promotions, and marketing materials for partners.\nResize and Adapt Visuals from internal and external partners for different formats and platforms.\nCollaborate Cross-functionally with internal teams (marketing, creative, production) and external stakeholders to deliver required creative assets.\nEnsure Timely Delivery of creative materials while maintaining high-quality standards across platforms.",
+                "Qualification": "Currently pursuing or recently graduated with a degree in Design, Visual Communication Design, Multimedia, or related fields.\n⁠Proficient in design tools such as Adobe Photoshop, Illustrator, and other relevant software.\nStrong understanding of visual design principles, including layout, color theory, and typography.\nAbility to adapt and resize visuals for various platforms and formats.\nCreative mindset with attention to detail and the ability to deliver high-quality design assets.\n⁠Good communication and collaboration skills to work with cross-functional teams and external stakeholders.\nAbility to manage time effectively and meet deadlines in a fast-paced environment.\nPassionate about digital content, sports, movies, and marketing campaigns.\nWillingness to learn and adapt to different project requirements.",
+                "Benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nTransportation\nCasual Dress Code\nTeam Building Activity\nSelf-development Allowance\nCompany Outings\nPaid Maternity / Paternity Leave\nPaid Sick Days\nProfessional Development\nWellness Program\nEmployee Discounts",
+                "Similarity Score": 0.4481310248374939
+            },
+            {
+                "Job Title": "UI/UX Designer",
+                "Company": "Universitas Ciputra",
+                "Job Description": "Melakukan pembuatan aset desain konten digital marketing dan pembuatan desain UX web apps / mobile apps",
+                "Qualification": "Minimal pendidikan S1 jurusan IT, Sistem informasi, atau jurusan lain yang relevan\nMemiliki pengalaman membuat desain aplikasi web dan mobile, konten untuk website dan media sosial\nMampu mengoperasikan Adobe Illustrator, photoshop, dan premiere pro",
+                "Benefit": "Period Leave\nCompetitive Salary\nTHR / Bonus system",
+                "Similarity Score": 0.43833476305007935
+            },
+            {
+                "Job Title": "Learning Multimedia Specialist",
+                "Company": "Universitas Ciputra",
+                "Job Description": "Memproduksi video pembelajaran\nMelakukan dokumentasi foto untuk mendukung peningkatan kualitas pengajaran\nMelakukan desain grafis dalam pembuatan poster/infografis",
+                "Qualification": "Minimal pendidikan S1 jutusan multimedia/Desain Komunikasi Visual/Teknologi Pendidikan/Komunikasi dan program studi lainnya yang relevan\nMemiliki pengalaman di bidang desain dan video (content creator) minimal 2 tahun (Diutamakan)\nMenguasai tren desain dan videografi terkini\nMahir menggunakan Adobe Photoshop & Illustrator\nMahir mengedit video dengan Premiere & After Effects",
+                "Benefit": "Period Leave\nCompetitive Salary\nTHR / Bonus system",
+                "Similarity Score": 0.42814481258392334
+            },
+            {
+                "Job Title": "Visual Designer",
+                "Company": "PT FCL Internasional Indonesia",
+                "Job Description": "1.Bertanggung jawab atas desain dan pengembangan visual display di offline store berpartisipasi dalam implementasi dan pengawasan desain grafis,serta memastikan penyebaran citra merek yang konsisten disetiap offline store. Ini termasuk namun tidak terbatas pada penataan display di MT seperti MINISO, DAN DAN, serta produksi materi visual untuk pameran besar dan kegiatan promosi.\n2.Berdasarkan visi misi perusahaan, berpartisipasi dalam perumusan standar visual offline store serta mendorong pembangunan sistem visual offline store.\n3.Bertanggung jawab untuk merincikan desain menjadi gambar teknis yang detail, serta menjalin komunikasi dengan vendor produksi dan mengikuti seluruh prosesnya, termasuk warna, implementasi, dan eksekusi akhir.\n4.Mampu menganalisis dan mengumpulkan visual dari brand lain serta meneliti berbagai karya desain merek yang unggul untuk kemudian disusun dan dibagikan.",
+                "Qualification": "1.Lulusan jurusan desain industri, desain periklanan, desain display, atau jurusan seni desain lainnya; memiliki pengalaman lebih dari 1 tahun dalam pengembangan dan desain display akan menjadi nilai tambah.\n2.Memiliki pemahaman tentang estetika display, mampu menggunakan material secara tepat sesuai kebutuhan desain, serta memiliki pemahaman dasar tentang biaya.\n3.Mahir berkomunikasi, memiliki semangat team work yang baik dan rasa tanggung jawab yang tinggi.\n4.Terampil menggunakan perangkat lunak seperti Illustrator, Photoshop, serta Keyshot/Blender/C4D.\n5.Memiliki sikap kerja yang serius dan bertanggung jawab, semangat profesionalisme dan teamwork yang tinggi, serta kemampuan eksekusi yang kuat.",
+                "Benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system\nPaid Sick Days",
+                "Similarity Score": 0.4211507737636566
+            },
+            {
+                "Job Title": "UI/UX Internship",
+                "Company": "Xapiens Teknologi Indonesia",
+                "Job Description": "Assist in creating wireframes, prototypes, and user interface designs for web and mobile apps using Figma\nCollaborate with the Project Manager to help ensure a smooth and user-friendly experience\nWork with developers to support the accurate implementation of designs\nParticipate in brainstorming sessions, workshops, and usability testing activities\nIterate on designs based on user and team feedback\nSupport the design team in producing visual assets such as icons and illustrations when needed",
+                "Qualification": "Final-year student or fresh graduate from Interaction Design (IxD), Human-Computer Interaction (HCI), Visual Communication Design, Graphic Design, or IT-related fields.\nA portfolio showing your skills in UI/UX design for web or mobile apps.\nFamiliar with design tools such as Figma, Adobe Photoshop, Adobe Illustrator, or similar platforms. Interest or experience in motion graphics or creating user/video guides is a plus.\nWilling to learn, open to feedback, and enjoy working in a team.\nAvailable for a 6-month internship, working from the office (WFO).",
+                "Benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nPeriod Leave\nPaid Maternity / Paternity Leave\nProfessional Development\nTeam Building Activity\nCasual Dress Code",
+                "Similarity Score": 0.41966861486434937
+            },
+            {
+                "Job Title": "UI/UX Designer",
+                "Company": "PT Node Solusi Teknologi",
+                "Job Description": "Mengilustrasikan ide melalui storyboard, alur proses, perjalanan pengguna, dan peta situs.\nMenyampaikan solusi berbasis pengguna dengan mempertimbangkan penelitian dan pemahaman kebutuhan bisnis.\nMengembangkan rancangan (UI) dan prototipe.\nMelakukan penelitian pengguna untuk memperbaiki desain.\nMenguji, merevisi, dan memperbaiki desain dengan cepat berdasarkan umpan balik.",
+                "Qualification": "Pendidikan minimal SMA/SMK sederajat.\nMemiliki Pengalaman di bidang yang sama.\nKemahiran dan pengalaman dalam menggunakan perangkat lunak desain seperti Figma, Corel, dan Adobe Photoshop.\nPengetahuan dasar HTML, CSS, dan Javascript menjadi nilai tambah.\nKemampuan untuk melakukan iterasi desain dengan cepat.",
+                "Benefit": "Free Lunch",
+                "Similarity Score": 0.4140107333660126
+            },
+            {
+                "Job Title": "Creative Leader",
+                "Company": "Clerina Group",
+                "Job Description": "Memimpin tim kreatif yang terdiri dari content creator, graphic designer, fotografer, videografer, dan social media editor.\nMerancang dan mengarahkan konsep visual untuk campaign, launching produk, branding event, dan komunikasi digital.\nBertanggung jawab atas output visual dan konten di seluruh platform (Instagram, TikTok, YouTube, Shopee, Website).\nMenjaga konsistensi brand secara visual dan storytelling dalam semua materi promosi dan komunikasi.\nMengelola timeline proyek kreatif, memastikan semua materi selesai tepat waktu dengan kualitas tinggi.\nBerkolaborasi erat dengan tim marketing, produk, dan brand strategy untuk memastikan arah kreatif selaras dengan target bisnis.\nMemberikan arahan, evaluasi, dan feedback terhadap hasil desain, video, maupun konten lainnya dari tim.\nSelalu update dengan tren visual dan gaya komunikasi di industri kecantikan dan digital.",
+                "Qualification": "Pendidikan minimal S1 di bidang Desain Komunikasi Visual, Multimedia, Komunikasi, atau bidang relevan.\nPengalaman minimal 3–5 tahun di bidang kreatif, dengan minimal 1 tahun sebagai supervisor/team lead.\nMemiliki portfolio kreatif yang kuat, terutama di industri beauty, lifestyle, atau digital campaign.\nMahir memberikan arahan desain, storytelling visual, dan konsep campaign 360° (online & offline).\nPunya selera desain yang kuat, trend-savvy, dan mampu berpikir out of the box.\nMampu mengelola tim lintas fungsi secara efisien dan mendorong produktivitas tim kreatif.\nKomunikatif, solutif, dan terbiasa bekerja dengan deadline campaign.\nWFO, Bandung",
+                "Benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system\nPaid Sick Days",
+                "Similarity Score": 0.4127412736415863
+            }
+        ]
+    },
+    "3": {
+        "query_text": "3D Modeling for 3D Printing and Laser Cutting on Fusion 360",
+        "recommendations": [
+            {
+                "Job Title": "Digital Print Designer",
+                "Company": "PT. SARANAGRIYA LESTARI KERAMIK",
+                "Job Description": "Mempersiapkan design yang akan diproduksi\nMelakukan penyesuaian warna\nMenyimpan design",
+                "Qualification": "Pria, max 30 th\nPendidikan min D3\nMenguasai program design, khususnya Photosop-Mac",
+                "Benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nTransportation",
+                "Similarity Score": 0.5444059371948242
+            },
+            {
+                "Job Title": "Creative Designer",
+                "Company": "BINUS Group",
+                "Job Description": "Ensure effective design of complex graphics and animation, using independent judgment and creativity\nCreate basic designs, drawings, and illustrations for related multimedia production",
+                "Qualification": "Minimum Bachelor's Degree in Visual Communication Design / Design / Related studies\nMinimum 2 years of working experience\nExperience in Graphic Design\nExperience in Video Editing will be a plus point",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance",
+                "Similarity Score": 0.41538703441619873
+            },
+            {
+                "Job Title": "3D Artist",
+                "Company": "Moladin",
+                "Job Description": "Understand 3D Anamorphic Illusion\nCreate 3D anamorphic animation\nVerify the quality of the objects and make improvements where necessary to fit technical constraints and artistic direction\nHave a 3D animation showreel\nBe able to animate in Blender",
+                "Qualification": "High competency with 3D software such as Maya/ Blender/3Dsmax\nHaving experience on any of available game engine such as Unity or Unreal\nInterested on doing research and experiment on relevant technologies and best practice to support the 3D modelling pipeline\nTeam-Player who can also work independently",
+                "Benefit": "Period Leave\nTransportation",
+                "Similarity Score": 0.3838685154914856
+            },
+            {
+                "Job Title": "Product Designer",
+                "Company": "Kavela",
+                "Job Description": "What You'll Do:",
+                "Qualification": "Bachelor’s degree in Graphic Design or a related discipline, or equivalent relevant experience.\nAt least 1 year of hands-on experience in packaging or graphic design, ideally within the FMCG industry.\nStrong aesthetic sense with solid skills in layout, color theory, and visual storytelling.\nProficient in Adobe Photoshop, Illustrator & 3D Visual Softwares ( Rhinocheros/Blender/Fusion360 or similar softwares)\nOpen to and capable of working full-time on-site in Bekasi, Indonesia.",
+                "Benefit": "Medical Insurance\nCasual Dress Code\nTeam Building Activity\nProfessional Development\nCompany Outings\nTHR / Bonus system",
+                "Similarity Score": 0.38250070810317993
+            },
+            {
+                "Job Title": "Graphic Designer",
+                "Company": "Serial",
+                "Job Description": "This position bridges the gap between graphic design and content creation, requiring candidates to approach all content briefs with a strong foundation in design thinking.\nDesign\nPhotography\nVideography\nCreative Collaboration & Execution",
+                "Qualification": "Education background: Bachelor of Design / Fashion / Craft / Art, or Visual Arts.\nVisual-driven person. Having particular interest in image-making, be it photography and/or videography or any other visual-centric output.\n2+ years experience in design studio / creative agency ecosystem.\n2+ years of hands-on experience in photography and videography\nStrong portfolio showcasing commercial/product/lifestyle photography and video content\nProficiency with DSLR/mirrorless cameras, lighting setups, and studio equipment\nSkilled in Adobe Premiere Pro, After Effects, Lightroom, and Photoshop\nGood eye for composition, lighting, and pacing in both photo and video\nAbility to handle multiple projects and shoot both in-studio and on-location\nFamiliarity with social media trends and formats\nPassion for lifestyle, design, and brand storytelling\nComfortable directing talent or team members during shoots",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nEmployee Discounts\nPaid Sick Days\nCasual Dress Code\nPeriod Leave\nCompany Outings\nPaid Maternity / Paternity Leave",
+                "Similarity Score": 0.354340136051178
+            },
+            {
+                "Job Title": "Learning Multimedia Specialist",
+                "Company": "Universitas Ciputra",
+                "Job Description": "Memproduksi video pembelajaran\nMelakukan dokumentasi foto untuk mendukung peningkatan kualitas pengajaran\nMelakukan desain grafis dalam pembuatan poster/infografis",
+                "Qualification": "Minimal pendidikan S1 jutusan multimedia/Desain Komunikasi Visual/Teknologi Pendidikan/Komunikasi dan program studi lainnya yang relevan\nMemiliki pengalaman di bidang desain dan video (content creator) minimal 2 tahun (Diutamakan)\nMenguasai tren desain dan videografi terkini\nMahir menggunakan Adobe Photoshop & Illustrator\nMahir mengedit video dengan Premiere & After Effects",
+                "Benefit": "Period Leave\nCompetitive Salary\nTHR / Bonus system",
+                "Similarity Score": 0.34701985120773315
+            },
+            {
+                "Job Title": "Pattern/Bottom Maker",
+                "Company": "Pou Chen Group Indonesia",
+                "Job Description": "Primarily use Jevero/Crispin pattern-making software.\nMust have relevant software skills (Lectra/Ai/Crispin/Rhino).\nAssist the master in pattern-making tasks, computer stitching card creation, and embroidery tape setup.\nMust have experience and knowledge related to footwear manufacturing.\nExecute Lectra computer room training and establish standardized operating procedures",
+                "Qualification": "Experience in footwear pattern-making is preferred.\nIntermediate English listening, speaking, reading, and writing skills.\nWillingness to travel to other regions for business trips.\nAbility to use Excel/PowerPoint to collect data and create presentations.",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nPeriod Leave\nFree Lunch\nTransportation\nFree Food / Snacks\nInternational Exposure\nCasual Dress Code\nPaid Maternity / Paternity Leave\nMedical Insurance\nPaid Sick Days\nProfessional Development\nMedical Checkup\n24-hours Health Clinic",
+                "Similarity Score": 0.3452046513557434
+            },
+            {
+                "Job Title": "UI/UX Designer",
+                "Company": "PT Node Solusi Teknologi",
+                "Job Description": "Mengilustrasikan ide melalui storyboard, alur proses, perjalanan pengguna, dan peta situs.\nMenyampaikan solusi berbasis pengguna dengan mempertimbangkan penelitian dan pemahaman kebutuhan bisnis.\nMengembangkan rancangan (UI) dan prototipe.\nMelakukan penelitian pengguna untuk memperbaiki desain.\nMenguji, merevisi, dan memperbaiki desain dengan cepat berdasarkan umpan balik.",
+                "Qualification": "Pendidikan minimal SMA/SMK sederajat.\nMemiliki Pengalaman di bidang yang sama.\nKemahiran dan pengalaman dalam menggunakan perangkat lunak desain seperti Figma, Corel, dan Adobe Photoshop.\nPengetahuan dasar HTML, CSS, dan Javascript menjadi nilai tambah.\nKemampuan untuk melakukan iterasi desain dengan cepat.",
+                "Benefit": "Free Lunch",
+                "Similarity Score": 0.34501558542251587
+            },
+            {
+                "Job Title": "Graphic Designer Freelance",
+                "Company": "Candyfurn",
+                "Job Description": "This is a contract role that offers a hybrid work arrangement, meaning that sometimes the work will be done in-person at our office location taking pictures and videos, while mostly work from home is also acceptable.\nAs a Graphic Designer Freelance, you will be responsible for :",
+                "Qualification": "Experience in creating and developing digital content across a range of channels\nAbility to write and edit high-quality and engaging content\nStrong collaboration and communication skills to work effectively with cross-functional teams\nProficiency with digital design tools is a plus but not required\nStrong understanding in market target\nGood understanding in social media management is preferable",
+                "Benefit": "Casual Dress Code\nFlexibility",
+                "Similarity Score": 0.3412746787071228
+            },
+            {
+                "Job Title": "Motion Graphics Designer",
+                "Company": "City Vision Indonesia",
+                "Job Description": "Work with art and creative departments to establish project vision and objectives\nin designing and creating storyboards\nPrepare design plan, concept and layout for motion graphic project\nDesign initial graphics and animations using computer software\nAssist in selecting audio, video, colours, animation, etc for graphic design\nTake graphic elements, add effects and create a moving motion graphics piece\nEdit raw video footage and add effects/elements to enhance motion graphics\nDeliver motion graphics in various media including web, mobile, etc\nWork with editors, producers and other designers to resolve technical and/or design issues\nProject budgets and timelines, and determine resources and materials needed to stay on budget and on deadline\nEnsure compliance with company guidelines, deadlines and design standard\nFamiliar have production knowlegde",
+                "Qualification": "2 Years Exp as Motion Graphic Designer\nCreative Professional with technical skill for after effect and adobe premier\nattention to details and design aesthetics\nable to translate a design brief into a stunning visual outcome\ngood in team work and managing workload",
+                "Benefit": "Transportation",
+                "Similarity Score": 0.3363630175590515
+            }
+        ]
+    },
+    "4": {
+        "query_text": "3D Printing and Additive Manufacturing",
+        "recommendations": [
+            {
+                "Job Title": "Digital Print Designer",
+                "Company": "PT. SARANAGRIYA LESTARI KERAMIK",
+                "Job Description": "Mempersiapkan design yang akan diproduksi\nMelakukan penyesuaian warna\nMenyimpan design",
+                "Qualification": "Pria, max 30 th\nPendidikan min D3\nMenguasai program design, khususnya Photosop-Mac",
+                "Benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nTransportation",
+                "Similarity Score": 0.6830241680145264
+            },
+            {
+                "Job Title": "Creative Designer",
+                "Company": "BINUS Group",
+                "Job Description": "Ensure effective design of complex graphics and animation, using independent judgment and creativity\nCreate basic designs, drawings, and illustrations for related multimedia production",
+                "Qualification": "Minimum Bachelor's Degree in Visual Communication Design / Design / Related studies\nMinimum 2 years of working experience\nExperience in Graphic Design\nExperience in Video Editing will be a plus point",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance",
+                "Similarity Score": 0.44820600748062134
+            },
+            {
+                "Job Title": "Visual Merchandise Project Specialist",
+                "Company": "PT. PASSION ABADI KORPORA",
+                "Job Description": "Tugas & Tanggung Jawab:\nNotes: Posisi ini membutuhkan individu yang mampu bekerja di bawah tekanan dan memiliki orientasi terhadap detail. Bersedia bekerja secara fleksibel, termasuk di luar jam kerja reguler jika diperlukan untuk mendukung kelancaran proyek.",
+                "Qualification": "Pendidikan min. S1 Arsitektur, Interior Design, atau jurusan relevan.\nMemiliki pengalaman kerja min. 1 tahun sebagai Visual Merchandise & Project Staff.\nMemiliki sertifikasi menjadi nilai tambah jika ada.\nSertifikasi: Tidak diwajibkan, tetapi menjadi nilai tambah jika ada.\nKomunikasi yang baik dan kemampuan bekerja sama dalam tim.\nKreativitas dalam merancang konsep desain yang inovatif dan sesuai tren pasar.\nKemampuan mengelola waktu dan multitasking untuk menangani berbagai proyek secara simultan.\nPengetahuan mendalam tentang Visual Merchandise & Project.\nKemampuan mengoperasikan software desain seperti SketchUp, AutoCAD, V-Ray, Photoshop, dan Adobe Illustrator.\nMahir menggunakan MS Office (terutama Excel dan Word) dan sistem ERP/sejenis.\nKemampuan analisis data dan pembuatan laporan.\nKemampuan berbahasa Inggris yang baik, baik lisan maupun tulisan.",
+                "Benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+                "Similarity Score": 0.4339480996131897
+            },
+            {
+                "Job Title": "Design Engineer",
+                "Company": "Imajin",
+                "Job Description": "Create detailed 2D and 3D drawings using Cimatron, SolidWorks, and AutoCAD.\nCollaborate with the engineering team to develop new product models from concept to production.\nAnalyze and test prototypes to identify potential issues and make necessary improvements.\nImplement continuous improvement initiatives (Kaizen) to optimize design processes.",
+                "Qualification": "Min. Diploma (D3) in Mechanical or Design Engineering\n1-2 years of experience in engineering projects\nStrong proficiency in 2D and 3D drawing software (Cimatron, SolidWorks, AutoCAD)\nUnderstanding of manufacturing technologies and processes\nExcellent problem-solving and analytical skills\nAttention to detail and accuracy\nAbility to work collaboratively in a team environment",
+                "Benefit": "Competitive Salary\nMedical Insurance\nCasual Dress Code\nPaid Maternity / Paternity Leave\nPaid Sick Days\nTHR / Bonus system\nCompany Outings\nProfessional Development",
+                "Similarity Score": 0.43053919076919556
+            },
+            {
+                "Job Title": "Arsitek",
+                "Company": "PT. Richeese Kuliner Indonesia",
+                "Job Description": "Membuat dan menyediakan perencanaan desain arsitektur, material bangunan dan visualisasi outlet untuk outlet baru maupun existing\nMengembangkan desain outlet atau unit bisnis lain sesuai dengan standar perancangan bangunan dan business plan agar mampu mendukung perencanaan maupun pengembangan desain outlet yang efektif dan efisien",
+                "Qualification": "Pendidikan Minimal S1 Arsitektur\nPengalaman kerja Minimal 3 tahun di bidang Arsitek, Interior Designer atau sebagai Site/Project supervisor\nMemiliki Kemampuan Komputer yang baik (Sketch Up, AutoCAD 3D, 3D Visualization, Ms. Project, Ms Office)\nMampu menyusun RAB\nMemiliki komunikasi yang baik\nBersedia untuk dinas ke luar kota\nPenempatan Bandung",
+                "Benefit": "Competitive Salary\nTHR / Bonus system",
+                "Similarity Score": 0.4294688403606415
+            },
+            {
+                "Job Title": "UI/UX Designer",
+                "Company": "PT Node Solusi Teknologi",
+                "Job Description": "Mengilustrasikan ide melalui storyboard, alur proses, perjalanan pengguna, dan peta situs.\nMenyampaikan solusi berbasis pengguna dengan mempertimbangkan penelitian dan pemahaman kebutuhan bisnis.\nMengembangkan rancangan (UI) dan prototipe.\nMelakukan penelitian pengguna untuk memperbaiki desain.\nMenguji, merevisi, dan memperbaiki desain dengan cepat berdasarkan umpan balik.",
+                "Qualification": "Pendidikan minimal SMA/SMK sederajat.\nMemiliki Pengalaman di bidang yang sama.\nKemahiran dan pengalaman dalam menggunakan perangkat lunak desain seperti Figma, Corel, dan Adobe Photoshop.\nPengetahuan dasar HTML, CSS, dan Javascript menjadi nilai tambah.\nKemampuan untuk melakukan iterasi desain dengan cepat.",
+                "Benefit": "Free Lunch",
+                "Similarity Score": 0.41054093837738037
+            },
+            {
+                "Job Title": "Production Specialist",
+                "Company": "PT Elita Sejahtera",
+                "Job Description": "Perencanaan dan Penjadwalan Produksi:\nKontrol Kualitas:\nManajemen Supplier:\nOptimalisasi Proses Produksi:\nKontrol Biaya:",
+                "Qualification": "Pendidikan SMK dalam Desain Fashion, Teknik Tekstil, atau bidang terkait.\nPengalaman minimal 3 tahun dalam manajemen produksi, terutama di industri fashion\nPemahaman yang kuat tentang proses produksi, termasuk pemotongan, penjahitan, bordir, dan finishing.\nPengetahuan yang sangat baik tentang kain, aksesori, dan bahan lainnya.\nPerhatian terhadap detail dan kemampuan pemecahan masalah.\nKemampuan bekerja di bawah tekanan dan memenuhi tenggat waktu.",
+                "Benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system\nPaid Sick Days",
+                "Similarity Score": 0.4098559617996216
+            },
+            {
+                "Job Title": "Product Designer",
+                "Company": "Kavela",
+                "Job Description": "What You'll Do:",
+                "Qualification": "Bachelor’s degree in Graphic Design or a related discipline, or equivalent relevant experience.\nAt least 1 year of hands-on experience in packaging or graphic design, ideally within the FMCG industry.\nStrong aesthetic sense with solid skills in layout, color theory, and visual storytelling.\nProficient in Adobe Photoshop, Illustrator & 3D Visual Softwares ( Rhinocheros/Blender/Fusion360 or similar softwares)\nOpen to and capable of working full-time on-site in Bekasi, Indonesia.",
+                "Benefit": "Medical Insurance\nCasual Dress Code\nTeam Building Activity\nProfessional Development\nCompany Outings\nTHR / Bonus system",
+                "Similarity Score": 0.4023514688014984
+            },
+            {
+                "Job Title": "Quality Control In Process",
+                "Company": "PT. PASSION ABADI KORPORA",
+                "Job Description": "Melakukan pemeriksaan visual dan fungsional terhadap perhiasan sesuai dengan tahapan proses produksi: Finishing, Setting, Poles, dan Chrome\nMemastikan detail produk sesuai dengan Surat Perintah Kerja (SPK), meliputi ukuran, bentuk, berat, warna, dan kehalusan sesuai dengan tahapan proses produksi: Finishing, Setting, Poles, dan Chrome\nMemastikan produk perhiasan memenuhi standar mutu dan kualitas yang berlaku\nMelakukan identifikasi cacat produksi (defects) pada produk\nMembuat laporan hasil quality control, termasuk jumlah produk yang lulus, tidak lulus, dan yang memerlukan perbaikan sesuai dengan tahapan proses produksi: Finishing, Setting, Poles, dan Chrome\nBerkoordinasi dengan tim produksi untuk penyelesaian masalah yang memerlukan perbaikan pada tahapan proses produksi: Finishing, Setting, Poles, dan Chrome",
+                "Qualification": "Pendidikan minimal S1 Teknik atau sejenisnya\nPengalaman kerja minimal 1 tahun di bidang Quality Control\nMemiliki pengetahuan terkait Quality Control\nMampu melakukan analisis dan reporting dengan baik\nMenguasai penggunaan MS Office, terutama Excel\nMenguasai sistem ERP atau sistem sejenis\nMampu berbahasa Inggris dengan baik (lisan dan tulisan) diutamakan",
+                "Benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+                "Similarity Score": 0.4013533592224121
+            },
+            {
+                "Job Title": "Computerized Stitching",
+                "Company": "Pou Chen Group Indonesia",
+                "Job Description": "Design and production of computerized sewing templates and jigs.\nModification, improvement, and innovation of production molds and tools to meet mass production requirements.\nResponsible for the maintenance status of various molds and tools.\nTrain staff professional skills and work competencies to effectively achieve work goals.",
+                "Qualification": "At least 2 years of experience in computerized sewing or as a pattern maker.",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nPeriod Leave\nFree Lunch\nTransportation\nFree Food / Snacks\nInternational Exposure\nCasual Dress Code\nPaid Maternity / Paternity Leave\nMedical Insurance\nPaid Sick Days\nProfessional Development\nMedical Checkup\n24-hours Health Clinic",
+                "Similarity Score": 0.3993915319442749
+            }
+        ]
+    },
+    "5": {
+        "query_text": "3D Printing Hardware",
+        "recommendations": [
+            {
+                "Job Title": "Digital Print Designer",
+                "Company": "PT. SARANAGRIYA LESTARI KERAMIK",
+                "Job Description": "Mempersiapkan design yang akan diproduksi\nMelakukan penyesuaian warna\nMenyimpan design",
+                "Qualification": "Pria, max 30 th\nPendidikan min D3\nMenguasai program design, khususnya Photosop-Mac",
+                "Benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nTransportation",
+                "Similarity Score": 0.6340005397796631
+            },
+            {
+                "Job Title": "Service Desk Engineer (IT Support)",
+                "Company": "Xapiens Teknologi Indonesia",
+                "Job Description": "Provides day-to-day support for business related IT to end-users\nInstallation and configuration of Computer, OS, Printers, and Application\nAnalyze and diagnose technical issues and give fast problem resolution\nTroubleshoot and resolve issues related to computer hardware, software, networks, & printers\nCreate report and technical documentation for IT environment",
+                "Qualification": "Bachelor's degree in Engineering (Computer/Electrical/Telecommunication), Computer Science/ Information Technology\nFamiliar with IT Infrastructure hardware, software and networking\nHave good knowledge about Microsoft product and cloud services\nGood analytical skills and passionate to learn new technology\nGood communication & interpersonal skills, English is an advantage",
+                "Benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system\nPeriod Leave\nPaid Maternity / Paternity Leave\nProfessional Development\nTeam Building Activity\nCasual Dress Code",
+                "Similarity Score": 0.4139573574066162
+            },
+            {
+                "Job Title": "Arsitek",
+                "Company": "PT. Richeese Kuliner Indonesia",
+                "Job Description": "Membuat dan menyediakan perencanaan desain arsitektur, material bangunan dan visualisasi outlet untuk outlet baru maupun existing\nMengembangkan desain outlet atau unit bisnis lain sesuai dengan standar perancangan bangunan dan business plan agar mampu mendukung perencanaan maupun pengembangan desain outlet yang efektif dan efisien",
+                "Qualification": "Pendidikan Minimal S1 Arsitektur\nPengalaman kerja Minimal 3 tahun di bidang Arsitek, Interior Designer atau sebagai Site/Project supervisor\nMemiliki Kemampuan Komputer yang baik (Sketch Up, AutoCAD 3D, 3D Visualization, Ms. Project, Ms Office)\nMampu menyusun RAB\nMemiliki komunikasi yang baik\nBersedia untuk dinas ke luar kota\nPenempatan Bandung",
+                "Benefit": "Competitive Salary\nTHR / Bonus system",
+                "Similarity Score": 0.3747269809246063
+            },
+            {
+                "Job Title": "Creative Designer",
+                "Company": "BINUS Group",
+                "Job Description": "Ensure effective design of complex graphics and animation, using independent judgment and creativity\nCreate basic designs, drawings, and illustrations for related multimedia production",
+                "Qualification": "Minimum Bachelor's Degree in Visual Communication Design / Design / Related studies\nMinimum 2 years of working experience\nExperience in Graphic Design\nExperience in Video Editing will be a plus point",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance",
+                "Similarity Score": 0.37009209394454956
+            },
+            {
+                "Job Title": "Electrical Project Technician",
+                "Company": "PT Kobe Boga Utama",
+                "Job Description": "Melakukan instalasi dan perawatan sistem kelistrikan arus kuat dan arus lemah.\nMembaca dan memahami wiring diagram serta panel kontrol listrik.\nMengoperasikan dan memprogram dasar PLC (Siemens/Omron).\nMelakukan instalasi mesin proses dan mesin packaging.\nTroubleshooting sistem kelistrikan dan kontrol otomatis.\nBerkoordinasi dengan tim proyek dalam pemasangan dan commissioning mesin.\nMembuat laporan kerja teknis dan dokumentasi instalasi.",
+                "Qualification": "Pendidikan min. SMK Teknik Elektro/Listrik (D3 lebih disukai).\nPengalaman min. 2 tahun di bidang kelistrikan industri/proyek.\nMenguasai dasar-dasar kelistrikan arus kuat dan arus lemah.\nBisa membaca dan memahami wiring diagram.\nMampu mengoperasikan PLC (basic programming).\nMampu melakukan instalasi mesin produksi dan packaging.\nSiap bekerja di lapangan dan melakukan perjalanan dinas.\nSertifikat K3 Listrik/Kompetensi kelistrikan (nilai tambah).",
+                "Benefit": "Competitive Salary\nTHR / Bonus system\nProfessional Development",
+                "Similarity Score": 0.3694155514240265
+            },
+            {
+                "Job Title": "Product Designer",
+                "Company": "Kavela",
+                "Job Description": "What You'll Do:",
+                "Qualification": "Bachelor’s degree in Graphic Design or a related discipline, or equivalent relevant experience.\nAt least 1 year of hands-on experience in packaging or graphic design, ideally within the FMCG industry.\nStrong aesthetic sense with solid skills in layout, color theory, and visual storytelling.\nProficient in Adobe Photoshop, Illustrator & 3D Visual Softwares ( Rhinocheros/Blender/Fusion360 or similar softwares)\nOpen to and capable of working full-time on-site in Bekasi, Indonesia.",
+                "Benefit": "Medical Insurance\nCasual Dress Code\nTeam Building Activity\nProfessional Development\nCompany Outings\nTHR / Bonus system",
+                "Similarity Score": 0.3615608811378479
+            },
+            {
+                "Job Title": "Design Engineer",
+                "Company": "Imajin",
+                "Job Description": "Create detailed 2D and 3D drawings using Cimatron, SolidWorks, and AutoCAD.\nCollaborate with the engineering team to develop new product models from concept to production.\nAnalyze and test prototypes to identify potential issues and make necessary improvements.\nImplement continuous improvement initiatives (Kaizen) to optimize design processes.",
+                "Qualification": "Min. Diploma (D3) in Mechanical or Design Engineering\n1-2 years of experience in engineering projects\nStrong proficiency in 2D and 3D drawing software (Cimatron, SolidWorks, AutoCAD)\nUnderstanding of manufacturing technologies and processes\nExcellent problem-solving and analytical skills\nAttention to detail and accuracy\nAbility to work collaboratively in a team environment",
+                "Benefit": "Competitive Salary\nMedical Insurance\nCasual Dress Code\nPaid Maternity / Paternity Leave\nPaid Sick Days\nTHR / Bonus system\nCompany Outings\nProfessional Development",
+                "Similarity Score": 0.35881203413009644
+            },
+            {
+                "Job Title": "UI/UX Designer",
+                "Company": "PT Node Solusi Teknologi",
+                "Job Description": "Mengilustrasikan ide melalui storyboard, alur proses, perjalanan pengguna, dan peta situs.\nMenyampaikan solusi berbasis pengguna dengan mempertimbangkan penelitian dan pemahaman kebutuhan bisnis.\nMengembangkan rancangan (UI) dan prototipe.\nMelakukan penelitian pengguna untuk memperbaiki desain.\nMenguji, merevisi, dan memperbaiki desain dengan cepat berdasarkan umpan balik.",
+                "Qualification": "Pendidikan minimal SMA/SMK sederajat.\nMemiliki Pengalaman di bidang yang sama.\nKemahiran dan pengalaman dalam menggunakan perangkat lunak desain seperti Figma, Corel, dan Adobe Photoshop.\nPengetahuan dasar HTML, CSS, dan Javascript menjadi nilai tambah.\nKemampuan untuk melakukan iterasi desain dengan cepat.",
+                "Benefit": "Free Lunch",
+                "Similarity Score": 0.35366880893707275
+            },
+            {
+                "Job Title": "Technical Support Engineer",
+                "Company": "PT. Inovasi Anak Indonesia - PARKEE",
+                "Job Description": "Install, configure, and troubleshoot hardware, software, systems, networks, printers, and scanners\nMeasure service satisfaction levels\nManage and uphold the troubleshooting escalation process\nMonitor and maintain computer systems and networks\nRespond to issues and service requests in a timely manner\nReport issues and coordinate with the IT Supervisor, IT Lead, and IT Infrastructure team\nProvide technical support required by the company (in person or via phone)\nRepair and replace necessary equipment\nTroubleshoot technical issues\nTest new technology/conduct tests on potential new tools to support employees\nAssist with IT equipment sourcing and budgeting\nProvide guidance as needed to the IT Support Team\nMaintain application deployment and versioning",
+                "Qualification": "At least 1-year of experience as a Technical Support Engineer\nHands-on experience with Linux operating systems\nIn-depth knowledge of Linux (preferably Ubuntu)\nExperienced with databases such as PostgreSQL, MySQL, SQL Server\nExperienced in installing OS and cloning\nFamiliar with remote access using SSH clients for Windows\nStrong technical skills and deep knowledge of IP, VOIP protocols, and network communication troubleshooting\nExperience in the parking industry is an advantage\nStrong interpersonal and problem-solving skills\nHaving \"Can do\" attitude and a willingness to learn\nAbility to diagnose and troubleshoot basic technical issues\nAbility to provide step-by-step technical assistance, both written and verbal\nKnowledge of scripting languages such as Perl, Python, or BASH\nExperience with programming languages and development is a plus\nWillingness for mobile work, comfortable working in the field (kerja lapangan), and open to work with night shifts.",
+                "Benefit": "Medical Insurance\nCompetitive Salary\nTHR / Bonus system\nCasual Dress Code\nCompany Outings",
+                "Similarity Score": 0.3528991937637329
+            },
+            {
+                "Job Title": "Technical Drafter Data Center",
+                "Company": "Bringin Inti Teknologi",
+                "Job Description": "Membuat gambar teknik dan dokumen terkait untuk proyek konstruksi data center, termasuk gambar arsitektur, struktural, mekanikal dan elektrikal.\nBekerja sama dengan tim perencana, insinyur dan kontraktor untuk mengembangkan desain konstruksi yang efisien dan memenuhi standar industri serta persyaratan peraturan yang berlaku.\nMenginterpretasikan spesifikasi teknis, persyaratan konstruksi dan standar industri untuk memastikan gambar dan dokumen yang dihasilkan sesuai dengan standar yang ditetapkan.\nMelakukan perhitungan dan analisis teknis yang diperlukan untuk mendukung perencanaan dan desain konstruksi.\nMenggabungkan perubahan dan revisi dalam gambar dan dokumen teknik sesuai dengan umpan balik dari tim perencana, insinyur dan kontraktor.\nMemastikan akurasi dan kualitas gambar teknik dan dokumen terkait sepanjang siklus proyek.\nMenjaga koordinasi dan komunikasi yang baik dengan tim proyek dan pihak-pihak terkait untuk memastikan kelancaran proses konstruksi.\nMembuat laporan berkala tentang kemajuan proyek dan menyampaikan rekomendasi perbaikan kepada manajemen jika diperlukan.\nMenjaga kerahasiaan informasi dan dokumen proyek sesuai dengan kebijakan perusahaan.",
+                "Qualification": "Minimal gelar D3 dalam bidang Teknik Sipil, Arsitektur, Teknik Elektro atau bidang terkait.\nPengalaman > 3 tahun dalam peran technical drafter, terutama dalam proyek konstruksi data center.\nMemiliki sertifikasi di bidang Sipil atau Arsitektur lebih diutamakan.\nKemampuan mengoperasikan perangkat lunak CAD (seperti AutoCAD, Revit 3DSketchup, CorelDRAW dan sejenisnya) dengan baik.\nPengetahuan yang mendalam tentang standar industri dan regulasi yang berlaku pada konstruksi data center.\nKemampuan analitis yang baik dan pemecahan masalah yang efisien.\nKemampuan komunikasi yang baik, baik lisan maupun tulisan dalam Bahasa Indonesia dan Inggris.\nKemampuan bekerja sama dalam tim dan koordinasi berbagai pihak.",
+                "Benefit": "Competitive Salary\nTHR / Bonus system",
+                "Similarity Score": 0.3522565960884094
+            }
+        ]
+    }
+}

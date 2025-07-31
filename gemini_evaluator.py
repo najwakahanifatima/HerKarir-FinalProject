@@ -1,6 +1,7 @@
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 import os
+import re
 
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 

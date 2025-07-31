@@ -12,10 +12,13 @@ def evaluate_video(path, question, topic):
 
     prompt = f"""
     Anda adalah seorang ahli HR dan pelatih wawancara. 
-    Berikan analisis mendalam terhadap video jawaban kandidat berdasarkan pertanyaan: "{question}"
+    Transkripkan isi video secara lengkap ke dalam teks dan berikan analisis mendalam terhadap video jawaban kandidat berdasarkan pertanyaan: "{question}"
     
     Berikan hasil dalam format berikut:
-    1. **Penilaian Jawaban (Skor 1–5)**  
+    1. **Transkrip Video**
+    Tuliskan seluruh jawaban dari kandidat sesuai isi video.
+    
+    2. **Penilaian Jawaban (Skor 1–5)**  
         Berikan skor serta penjelasan singkat untuk masing-masing aspek berikut:
         - **Relevansi Jawaban:** Seberapa relevan jawaban dengan pertanyaan.
         - **Kejelasan & Keringkasan:** Apakah jawaban mudah dipahami dan tidak bertele-tele.
@@ -52,4 +55,21 @@ def evaluate_video(path, question, topic):
         }
     )
 
-    return response.text
+    full_text = response.text.strip()
+
+    def extract_section(text, section_title):
+        try:
+            start = text.index(f"**{section_title}")
+            next_marker = text.index("**", start + 2)
+            end = text.index("**", next_marker + 2) if "**" in text[next_marker + 2:] else len(text)
+            return text[next_marker:end].strip()
+        except:
+            return ""
+
+    return {
+        "full_text": full_text,
+        "transkrip": extract_section(full_text, "Transkrip Video")
+        "tips": extract_section(full_text, "Tips Sukses Wawancara Umum"),
+        "kesalahan_umum": extract_section(full_text, "Kesalahan Umum dalam Wawancara"),
+        "pertanyaan_jebakan": extract_section(full_text, "Contoh Pertanyaan Jebakan")
+    }

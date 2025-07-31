@@ -1,6 +1,6 @@
 import { JobRecommendation } from "@/app/job-opportunities/page";
 
-export default function JobDetailCard({ job }: { job: JobRecommendation }) {
+export default function JobDetailCard(job: JobRecommendation)  {
   return (
     <div className="flex flex-col gap-6">
       <div>

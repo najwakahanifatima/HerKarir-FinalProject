@@ -1,5 +1,6 @@
 'use client'
 
+import { use } from "react";
 import { AssessmentCard } from "@/components/AssessmentCard";
 import { ArrowLeft } from "lucide-react";
 
@@ -20,8 +21,8 @@ interface AssessmentPageProps {
   }>;
 }
 
-export default async function AssessmentPage({ params }: AssessmentPageProps) {
-  const { id, test } = await params;
+export default function AssessmentPage({ params }: AssessmentPageProps) {
+  const { id, test } = use(params);
   const courseTitle = decodeURIComponent(id);
 
   let testTitle = '';

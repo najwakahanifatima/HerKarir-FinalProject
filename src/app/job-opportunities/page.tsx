@@ -29,7 +29,7 @@ export default function JobOpportunitiesPage() {
   }, []);
 
   const activeFilters = Object.entries(filters)
-    .map(([_, value]) => {
+    .map(([, value]) => {
       if (Array.isArray(value)) return value;
       if (typeof value === "string" && value.trim() !== "") return [value];
       return [];

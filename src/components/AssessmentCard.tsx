@@ -3,7 +3,6 @@
 import { useState } from "react"
 import AnswerChoice from "./AnswerChoice"
 import { Progress } from "./ui/progress"
-import { useRouter } from "next/navigation"
 
 export interface AssessmentCardProps {
   title: string

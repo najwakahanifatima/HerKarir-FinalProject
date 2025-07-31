@@ -1,0 +1,102 @@
+{
+  "learningProgress": [
+    { "id": 1, "icon": "/icons/product-management.svg", "title": "Manajemen Produk", "progress": 40 },
+    { "id": 2, "icon": "/icons/ibm.svg", "title": "IBM UI/UX Designer", "progress": 10 },
+    { "id": 3, "icon": "/icons/google.svg", "title": "Google UX Design", "progress": 90 },
+    { "id": 4, "icon": "/icons/fullstack.svg", "title": "Full Stack Web Developer", "progress": 60 }
+  ],
+  "recommendedCourses": [
+    { 
+      "id": 1, 
+      "title": "Dasar-Dasar Manajemen Produk", 
+      "provider": "Microsoft", 
+      "providerLogo": "/logos/microsoft.svg", 
+      "image": "/images/image1.svg" 
+    },
+    { 
+      "id": 2, 
+      "title": "Manajemen Produk Agile dengan Scrum", 
+      "provider": "Meta", 
+      "providerLogo": "/logos/meta.svg", 
+      "image": "/images/image2.svg" 
+    },
+    { 
+      "id": 3, 
+      "title": "Desain Produk yang Berpusat Pelanggan", 
+      "provider": "IBM", 
+      "providerLogo": "/logos/ibm.svg", 
+      "image": "/images/image3.svg" 
+    },
+    { 
+      "id": 4, 
+      "title": "Manajemen Produk Strategis", 
+      "provider": "Google", 
+      "providerLogo": "/logos/google.svg", 
+      "image": "/images/image4.svg" 
+    },
+    { 
+      "id": 5, 
+      "title": "Dasar-Dasar Manajemen Produk", 
+      "provider": "Microsoft", 
+      "providerLogo": "/logos/microsoft.svg", 
+      "image": "/images/image5.svg" 
+    },
+    { 
+      "id": 6, 
+      "title": "Dasar-Dasar Manajemen Produk", 
+      "provider": "Microsoft", 
+      "providerLogo": "/logos/microsoft.svg", 
+      "image": "/images/image6.svg" 
+    },
+    { 
+      "id": 7, 
+      "title": "Dasar-Dasar Manajemen Produk", 
+      "provider": "Microsoft", 
+      "providerLogo": "/logos/microsoft.svg", 
+      "image": "/images/image7.svg" 
+    },
+    { 
+      "id": 8, 
+      "title": "Dasar-Dasar Manajemen Produk", 
+      "provider": "Microsoft", 
+      "providerLogo": "/logos/microsoft.svg", 
+      "image": "/images/image8.svg" 
+    },
+    { 
+      "id": 9, 
+      "title": "Dasar-Dasar Manajemen Produk", 
+      "provider": "Microsoft", 
+      "providerLogo": "/logos/microsoft.svg", 
+      "image": "/images/image9.svg" 
+    }
+  ],
+  "features": [
+    { "id": 1, "icon": "/vectors/vector1.svg", "title": "Analisis Kesenjangan Keterampilan", "description": "Membandingkan keterampilan kamu dengan persyaratan pekerjaan yang dituju." },
+    { "id": 2, "icon": "/vectors/vector2.svg", "title": "Pembelajaran yang Dipersonalisasi", "description": "Jika ada kesenjangan keterampilan, kamu akan menerima rekomendasi kursus." },
+    { "id": 3, "icon": "/vectors/vector3.svg", "title": "Rekomendasi Pekerjaan", "description": "Sistem akan menyediakan daftar pekerjaan yang sesuai dengan kamu." },
+    { "id": 4, "icon": "/vectors/vector4.svg", "title": "Simulasi Wawancara dengan AI", "description": "Tingkatkan kesiapanmu lewat simulasi wawancara interaktif berbasis AI." }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Dewi Lestari",
+      "role": "UI/UX Designer",
+      "avatar": "/images/dewi.svg",
+      "text": "Belajar di platform ini benar-benar membuka wawasan saya. Materinya relevan, dan bisa langsung diterapkan ke pekerjaan sehari-hari."
+    },
+    {
+      "id": 2,
+      "name": "Laras Nurhaliza",
+      "role": "Career Switcher ke Dunia Tech",
+      "avatar": "/images/laras.svg",
+      "text": "Platform ini bantu saya pindah karier ke tech tanpa harus kuliah lagi. Terima kasih udah bikin proses belajarnya menyenangkan dan terarah!"
+    },
+    {
+      "id": 3,
+      "name": "Dewi Lestari",
+      "role": "Data Analyst",
+      "avatar": "/images/dewi2.svg",
+      "text": "Fitur personalisasi kursusnya keren banget! Saya jadi bisa fokus belajar sesuai kebutuhan karier saya."
+    }
+  ]
+}

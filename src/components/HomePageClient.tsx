@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useAuth } from '@/context/AuthContext';
 import SearchInput from '@/components/SearchInput';
 import ProgressCard from '@/components/ProgressCard';
-import CourseCard from '@/components/CourseCard';
+import {CourseCard} from '@/components/CourseCard';
 import FeaturesSection from '@/components/FeaturesSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
 import CtaSection from '@/components/CtaSection';
@@ -58,14 +58,14 @@ export default function HomePageClient({ allCourses, mockData }: HomePageClientP
 
         <section className="my-20 px-16">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">Rekomendasi yang cocok buat kamu</h2>
-          <div className="p-10 bg-#D9D9D9 border-1 rounded-md">
+          <div className="p-10 bg-#D9D9D9 border-1 rounded-md border-gray-300">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {displayedCourses.map((course, index) => (
               <CourseCard 
                 key={index}
                 title={course.Title}
-                provider={course.Institution}
-                image={courseImages[index % courseImages.length]}
+                institution={course.Institution}
+                imagePath={courseImages[index % courseImages.length]}
                 providerLogo={providerLogos[index % providerLogos.length]}
               />
             ))}

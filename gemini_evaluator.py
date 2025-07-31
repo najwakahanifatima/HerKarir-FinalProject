@@ -25,19 +25,19 @@ def evaluate_video(path, question, topic):
         - **Struktur Jawaban:** Apakah jawaban terstruktur dengan baik (misalnya, penggunaan metode STAR jika relevan).
         - **Kepercayaan Diri:** Apakah jawaban menunjukkan kepercayaan diri (berdasarkan pilihan kata dan intonasi yang tersirat).
     
-    2. **Kekuatan**  
+    3. **Kekuatan**  
    Sebutkan hal-hal yang sudah bagus dari jawaban kandidat.
 
-    3. **Area Peningkatan**  
+    4. **Area Peningkatan**  
     Apa saja yang bisa diperbaiki dari jawaban tersebut.
 
-    4. **Tips Sukses Wawancara Umum**  
+    5. **Tips Sukses Wawancara Umum**  
     Berikan 2–3 tips praktis yang bisa membantu kandidat meningkatkan performanya secara keseluruhan.
 
-    5. **Kesalahan Umum dalam Wawancara**  
+    6. **Kesalahan Umum dalam Wawancara**  
     Jelaskan 1–2 kesalahan umum yang sering terjadi, khususnya yang relevan dengan jawaban ini (jika ada).
 
-    6. **Contoh Pertanyaan Jebakan**  
+    7. **Contoh Pertanyaan Jebakan**  
     Berikan 1 contoh pertanyaan jebakan yang berkaitan dengan topik "{topic}" dan jelaskan cara menjawabnya dengan tepat.
     """
 

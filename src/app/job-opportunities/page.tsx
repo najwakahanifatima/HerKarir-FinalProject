@@ -130,7 +130,7 @@ export default function JobOpportunitiesPage() {
           value={selectedQuery}
           onChange={(e) => setSelectedQuery(e.target.value)}
         >
-          <option value="">Show All (Click to filter)</option>
+          <option value="">Tampilkan Semua (Klik untuk pilih personalisasi)</option>
           <option>.NET FullStack Developer</option>
           <option>3D Interaction Design in Virtual Reality</option>
           <option>3D Modeling for 3D Printing and Laser Cutting on Fusion 360</option>

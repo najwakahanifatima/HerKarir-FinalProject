@@ -9,7 +9,7 @@ export default function HeroSection() {
     <div className="relative my-10 bg-pink-100 rounded-2xl p-8 md:p-12 flex items-center overflow-hidden">
       {/* Background Pattern */}
       <Image
-        src="/images/hero-bg-pattern.svg" // Pastikan ada file pattern ini di public/images
+        src="/images/hero-bg-pattern.svg"
         alt="background pattern"
         layout="fill"
         objectFit="cover"
@@ -27,14 +27,14 @@ export default function HeroSection() {
             Nggak perlu bingung mulai dari mana, temukan gap-nya, dan beri
             rekomendasi belajar & kerja yang sesuai.
           </p>
-          <p className="font-semibold text-pink-600 mb-6">
+          <p className="font-semibold text-[[pink-600]] mb-6">
             #BeraniBersamaHerKarir
           </p>
           <Link href="/login">
-            <button className="bg-pink-600 text-white font-semibold pl-6 pr-2 py-2 rounded-full flex items-center gap-4 mx-auto md:mx-0 hover:bg-pink-700 transition-colors">
+            <button className="bg-[#C9184A] text-white font-semibold pl-6 pr-2 py-2 rounded-full flex items-center gap-4 mx-auto md:mx-0 hover:bg-pink-500 cursor-pointer transition-colors">
               <span>Ayo Belajar Sekarang</span>
               <div className="bg-white rounded-full p-2">
-                <ArrowRight size={20} className="text-pink-600" />
+                <ArrowRight size={20} className="text-[#C9184A]" />
               </div>
             </button>
           </Link>
@@ -43,20 +43,20 @@ export default function HeroSection() {
         <div className="md:w-1/2 relative flex items-center justify-center h-[300px]">
           {/* Gambar Latar Belakang (Vector) */}
           <Image
-            src="/images/bg-vector-hero.svg" // Pastikan file ini ada di public/images
+            src="/images/bg-vector-hero.svg"
             alt="Background Vector"
             layout="fill"
             objectFit="contain"
             className="z-0"
           />
 
-          {/* Gambar Utama (Wanita) */}
+          {/* Gambar Utama*/}
           <Image
             src="/images/hero-women.svg"
             alt="Hero Image"
             width={450}
             height={300}
-            className="object-contain relative z-10" // Diberi z-10 agar selalu di depan
+            className="object-contain relative z-10"
           />
         </div>
       </div>

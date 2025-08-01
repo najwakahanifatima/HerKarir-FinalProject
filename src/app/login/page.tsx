@@ -18,7 +18,7 @@ export default function LoginPage() {
     // Fungsi yang dijalankan saat form disubmit
     const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
       event.preventDefault();
-      // Simulasi: Cukup cek jika username diisi
+
       if (username) {
         login({ username: username }); // Panggil fungsi login dari context
         router.push('/'); // Arahkan ke beranda
@@ -67,7 +67,7 @@ export default function LoginPage() {
                 required 
                 value={username} // 3. Hubungkan ke state
                 onChange={(e) => setUsername(e.target.value)} // 4. Update state saat diketik
-                className="text-gray-400 mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-pink-500 focus:border-pink-500"
+                className="text-gray-400 mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-[#C9184A] focus:border-[#C9184A]"
               />
             </div>
             <div>
@@ -80,24 +80,24 @@ export default function LoginPage() {
                   required 
                   value={password} // Hubungkan ke state
                   onChange={(e) => setPassword(e.target.value)} // Update state
-                  className="text-gray-400 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-pink-500 focus:border-pink-500"
+                  className="text-gray-400 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-[#C9184A] focus:border-[#C9184A]"
                 />
                 <Lock className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400" size={18}/>
               </div>
             </div>
             <div className="flex items-center justify-start">
-              <a href="#" className="text-sm text-pink-600 hover:underline">Lupa password?</a>
+              <a href="#" className="text-sm text-[#C9184A] hover:underline">Lupa password?</a>
             </div>
             <button 
               type="submit" 
-              className="w-full flex justify-center py-3 px-4 border border-transparent rounded-lg shadow-sm text-white bg-pink-600 hover:bg-pink-700 font-semibold transition-colors"
+              className="w-full flex justify-center py-3 px-4 border border-transparent rounded-lg shadow-sm text-white bg-[#C9184A] hover:bg-pink-500 font-semibold transition-colors cursor-pointer"
             >
               Masuk
             </button>
           </form>
           <p className="mt-8 text-center text-sm text-gray-600">
             Belum punya akun?{' '}
-            <Link href="/register" className="font-semibold text-pink-600 hover:underline">
+            <Link href="/register" className="font-semibold text-[#C9184A] hover:underline">
               Daftar
             </Link>
           </p>

@@ -34,11 +34,11 @@ export default function CtaSection() {
           {/* TAMBAH 'onClick' PADA TOMBOL */}
           <button 
             onClick={handleClick}
-            className="bg-pink-600 text-white font-semibold py-3 px-6 rounded-full flex items-center gap-2 hover:bg-pink-700 transition-colors"
+            className="bg-[#C9184A] text-white font-semibold py-3 px-6 rounded-full flex items-center gap-2 hover:bg-pink-700 transition-colors"
           >
             Coba Simulasi Sekarang
             <div className="bg-white rounded-full p-2">
-                <ArrowRight size={20} className="text-pink-600" />
+                <ArrowRight size={20} className="text-[#C9184A]" />
               </div>
           </button>
         </div>

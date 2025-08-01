@@ -34,7 +34,7 @@ export default function Footer() {
                 width={40}
                 height={40}
               />
-              <span className="text-2xl font-bold text-pink-600">HerKarir</span>
+              <span className="text-2xl font-bold text-[#C9184A]">HerKarir</span>
             </Link>
             <p className="mt-4 text-gray-600">Karir Tanpa Batas, Perempuan Berkualitas</p>
           </div>
@@ -43,12 +43,12 @@ export default function Footer() {
           <div>
             <h3 className="font-bold text-lg text-gray-900 mb-4">Navigasi</h3>
             <ul className="space-y-3">
-              <li><Link href="/" className="text-pink-600 hover:text-pink-800">Beranda</Link></li>
+              <li><Link href="/" className="text-[#C9184A] hover:text-pink-500">Beranda</Link></li>
               {/* 5. Ganti <Link> menjadi <a> dan tambahkan onClick */}
-              <li><a href="#" onClick={(e) => handleProtectedLinkClick(e, '#')} className="text-pink-600 hover:text-pink-800 cursor-pointer">Kategori</a></li>
-              <li><a href="#" onClick={(e) => handleProtectedLinkClick(e, '#')} className="text-pink-600 hover:text-pink-800 cursor-pointer">Pelatihan</a></li>
-              <li><a href="#" onClick={(e) => handleProtectedLinkClick(e, '#')} className="text-pink-600 hover:text-pink-800 cursor-pointer">Cari Kerja</a></li>
-              <li><a href="/simulasi-wawancara" onClick={(e) => handleProtectedLinkClick(e, '/simulasi-wawancara')} className="text-pink-600 hover:text-pink-800 cursor-pointer">Simulasi Wawancara</a></li>
+              <li><a href="#" onClick={(e) => handleProtectedLinkClick(e, '#')} className="text-[#C9184A] hover:text-pink-500 cursor-pointer">Kategori</a></li>
+              <li><a href="#" onClick={(e) => handleProtectedLinkClick(e, '#')} className="text-[#C9184A] hover:text-pink-500 cursor-pointer">Pelatihan</a></li>
+              <li><a href="#" onClick={(e) => handleProtectedLinkClick(e, '#')} className="text-[#C9184A] hover:text-pink-500 cursor-pointer">Cari Kerja</a></li>
+              <li><a href="/simulasi-wawancara" onClick={(e) => handleProtectedLinkClick(e, '/simulasi-wawancara')} className="text-[#C9184A] hover:text-pink-500 cursor-pointer">Simulasi Wawancara</a></li>
             </ul>
           </div>
 

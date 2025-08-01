@@ -16,7 +16,6 @@ export default function Navbar() {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false); 
   const dropdownRef = useRef<HTMLDivElement>(null);
   
-  //Tambahkan properti 'protected' untuk menandai link yang butuh login
   const navLinks = [
     { href: '/', label: 'Beranda', protected: false },
     { href: '/course', label: 'Kursus', protected: true },
@@ -38,15 +37,14 @@ export default function Navbar() {
     logout();
     setIsDropdownOpen(false);
   };
-  
-  //Fungsi untuk menangani klik pada link yang dilindungi
+
   const handleProtectedLinkClick = (e: React.MouseEvent<HTMLAnchorElement>, href: string, isProtected: boolean) => {
     if (isProtected && !user) {
-      e.preventDefault(); // Hentikan navigasi default
+      e.preventDefault();
       alert("Silakan login atau register terlebih dahulu");
-      router.push('/login'); // Arahkan ke halaman login
+      router.push('/login');
     } else {
-      router.push(href); // Lanjutkan navigasi jika sudah login
+      router.push(href);
     }
   };
 
@@ -64,14 +62,14 @@ export default function Navbar() {
 
       <div className="hidden lg:flex items-center gap-15 text-gray-700 font-medium">
         {navLinks.map((link) => (
-          <a // 5. Ganti <Link> menjadi <a> untuk kontrol klik manual
+          <a
             key={link.label} 
             href={link.href} 
             onClick={(e) => handleProtectedLinkClick(e, link.href, link.protected)}
             className={
               `cursor-pointer ${pathname === link.href 
-              ? 'text-pink-600 font-semibold' 
-              : 'text-pink-400 hover:text-pink-600'}`
+              ? 'text-[#C9184A] font-semibold hover:text-pink-500' 
+              : 'text-[#C9184A] hover:text-pink-500 hover:-translate-y-0.5 transform transition'}`
             }
           >
             {link.label}
@@ -83,7 +81,7 @@ export default function Navbar() {
         {/* Tampilkan tombol Masuk saat loading atau jika user tidak ada */}
         {isLoading || !user ? (
           <Link href="/login">
-            <button className="bg-pink-600 text-white px-7 py-2.5 rounded-lg font-semibold hover:bg-pink-700 transition-colors">
+            <button className="bg-[#C9184A] text-white px-7 py-2.5 rounded-lg font-semibold hover:bg-pink-500 transition-colors cursor-pointer">
               Masuk
             </button>
           </Link>

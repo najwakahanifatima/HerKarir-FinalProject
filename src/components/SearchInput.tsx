@@ -10,7 +10,7 @@ export default function SearchInput() {
         <input 
           type="text"
           placeholder="Cari"
-          className="w-full pl-12 pr-4 py-3 border-2 border-pink-300 rounded-lg focus:outline-none focus:border-pink-500 placeholder:text-gray-400"
+          className="w-full pl-12 pr-4 py-3 border-2 border-[#C9184A] rounded-lg focus:outline-none focus:border-pink-500 placeholder:text-gray-400"
         />
         <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" size={20} />
       </div>

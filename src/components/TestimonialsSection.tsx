@@ -44,7 +44,7 @@ export default function TestimonialsSection() {
         {/* 2. Pindahkan tombol ke sini dan posisikan absolut */}
         <button 
           onClick={handleScroll}
-          className="absolute top-1/2 -translate-y-1/2 right-4 z-10 bg-pink-600 text-white p-3 rounded-full hover:bg-pink-700 flex-shrink-0"
+          className="absolute top-1/2 -translate-y-1/2 right-4 z-10 bg-[#C9184A] text-white p-3 rounded-full hover:bg-pink-500 flex-shrink-0 cursor-pointer"
           aria-label="Scroll right"
         >
           <ArrowRight size={24} />

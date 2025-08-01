@@ -1,169 +1,130 @@
 {
-    "1": {
+   "1": {
         "query_text": ".NET FullStack Developer",
         "recommendations": [
             {
-                "title": "Software Engineer (Fullstack)",
-                "company": "Sprout Digital Labs",
-                "description": "Provide technical leadership in a fast-moving, data-driven environment...",
-                "qualification": "Bachelor's degree in Computer science or equivalent degree...",
-                "benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system...",
-                "Similarity Score": 0.6729831695556641,
-                "tags": {
-                    "tempat": "Penuh Waktu",
-                    "tingkat": "Mahir",
-                    "industri": "Teknologi",
-                    "salary": "Rp 15-20 juta",
-                    "experience": "Minimal 3 tahun pengalaman",
-                    "location": "Jakarta"
-                }
+            "title": "Software Engineer (Fullstack)",
+            "company": "Sprout Digital Labs",
+            "description": "Provide technical leadership in a fast-moving, data-driven environment...",
+            "qualification": "Bachelor's degree in Computer science or equivalent degree...",
+            "benefit": "Competitive Salary\nMedical Insurance\nDental Insurance\nTHR / Bonus system...",
+            "Similarity Score": 0.6729831695556641,
+            "tags": ["Penuh Waktu", "Mahir", "Teknologi"],
+            "salary": "Rp 15-20 juta",
+            "experience": "Minimal 3 tahun pengalaman",
+            "location": "Jakarta"
             },
             {
-                "title": "Software - Engineer",
-                "company": "The Flex",
-                "description": "Full-Stack Development: Design, develop, and maintain scalable web applications...",
-                "qualification": "Proficiency in Node.js, React, and AWS Cloud...",
-                "benefit": "Competitive Salary\nMedical Insurance\nProfessional Development",
-                "Similarity Score": 0.6452447175979614,
-                "tags": {
-                    "tempat": "Magang",
-                    "tingkat": "Pemula",
-                    "industri": "Data dan Produk",
-                    "salary": "Rp 8-12 juta",
-                    "experience": "Baru lulus atau 1 tahun pengalaman",
-                    "location": "Bandung"
-                }
+            "title": "Software - Engineer",
+            "company": "The Flex",
+            "description": "Full-Stack Development: Design, develop, and maintain scalable web applications...",
+            "qualification": "Proficiency in Node.js, React, and AWS Cloud...",
+            "benefit": "Competitive Salary\nMedical Insurance\nProfessional Development",
+            "Similarity Score": 0.6452447175979614,
+            "tags": ["Magang", "Pemula", "Data dan Produk"],
+            "salary": "Rp 8-12 juta",
+            "experience": "Baru lulus atau 1 tahun pengalaman",
+            "location": "Bandung"
             },
             {
-                "title": "Fullstack Developer",
-                "company": "AssistX Enterprise",
-                "description": "Membangun perangkat lunak yang kuat dan dapat ditingkatkan...",
-                "qualification": "Pendidikan minimal S1 Ilmu komputer...",
-                "benefit": "Competitive Salary\nTHR / Bonus system\nPeriod Leave",
-                "Similarity Score": 0.6328955888748169,
-                "tags": {
-                    "tempat": "Paruh Waktu",
-                    "tingkat": "Mahir",
-                    "industri": "Teknologi",
-                    "salary": "Rp 10-15 juta",
-                    "experience": "Minimal 1 tahun pengalaman",
-                    "location": "Jakarta"
-                }
+            "title": "Fullstack Developer",
+            "company": "AssistX Enterprise",
+            "description": "Membangun perangkat lunak yang kuat dan dapat ditingkatkan...",
+            "qualification": "Pendidikan minimal S1 Ilmu komputer...",
+            "benefit": "Competitive Salary\nTHR / Bonus system\nPeriod Leave",
+            "Similarity Score": 0.6328955888748169,
+            "tags": ["Paruh Waktu", "Mahir", "Teknologi"],
+            "salary": "Rp 10-15 juta",
+            "experience": "Minimal 1 tahun pengalaman",
+            "location": "Jakarta"
             },
             {
-                "title": "Full Stack Developer",
-                "company": "United Creative",
-                "description": "Develop and maintain scalable web applications...",
-                "qualification": "Proven experience as a Full Stack Developer...",
-                "benefit": "Competitive Salary\nTHR / Bonus system\nPeriod Leave",
-                "Similarity Score": 0.5868250131607056,
-                "tags": {
-                    "tempat": "Freelance",
-                    "tingkat": "Pemula",
-                    "industri": "Data dan Produk",
-                    "salary": "Rp 5-8 juta",
-                    "experience": "Fresh graduate bisa melamar",
-                    "location": "Bandung"
-                }
+            "title": "Full Stack Developer",
+            "company": "United Creative",
+            "description": "Develop and maintain scalable web applications...",
+            "qualification": "Proven experience as a Full Stack Developer...",
+            "benefit": "Competitive Salary\nTHR / Bonus system\nPeriod Leave",
+            "Similarity Score": 0.5868250131607056,
+            "tags": ["Freelance", "Pemula", "Data dan Produk"],
+            "salary": "Rp 5-8 juta",
+            "experience": "Fresh graduate bisa melamar",
+            "location": "Bandung"
             },
             {
-                "title": "Fullstack Go Javascript Developer",
-                "company": "ITOMMEY Group",
-                "description": "Fullstack Development: Design, develop, test, and deploy software solutions...",
-                "qualification": "Bachelor Degree (S1) In Computer Science...",
-                "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
-                "Similarity Score": 0.5857535600662231,
-                "tags": {
-                    "tempat": "Penuh Waktu",
-                    "tingkat": "Mahir",
-                    "industri": "Teknologi",
-                    "salary": "Rp 18-25 juta",
-                    "experience": "Minimal 2 tahun pengalaman",
-                    "location": "Jakarta"
-                }
+            "title": "Fullstack Go Javascript Developer",
+            "company": "ITOMMEY Group",
+            "description": "Fullstack Development: Design, develop, test, and deploy software solutions...",
+            "qualification": "Bachelor Degree (S1) In Computer Science...",
+            "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+            "Similarity Score": 0.5857535600662231,
+            "tags": ["Penuh Waktu", "Mahir", "Teknologi"],
+            "salary": "Rp 18-25 juta",
+            "experience": "Minimal 2 tahun pengalaman",
+            "location": "Jakarta"
             },
             {
-                "title": "Fullstack Developer",
-                "company": "ITOMMEY Group",
-                "description": "Work with developers to design algorithms and flowcharts...",
-                "qualification": "Bachelor Degree (S1) Degree in Technology...",
-                "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
-                "Similarity Score": 0.5840919017791748,
-                "tags": {
-                    "tempat": "Magang",
-                    "tingkat": "Pemula",
-                    "industri": "Data dan Produk",
-                    "salary": "Rp 6-10 juta",
-                    "experience": "Pengalaman 1-2 tahun lebih diutamakan",
-                    "location": "Bandung"
-                }
+            "title": "Fullstack Developer",
+            "company": "ITOMMEY Group",
+            "description": "Work with developers to design algorithms and flowcharts...",
+            "qualification": "Bachelor Degree (S1) Degree in Technology...",
+            "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system",
+            "Similarity Score": 0.5840919017791748,
+            "tags": ["Magang", "Pemula", "Data dan Produk"],
+            "salary": "Rp 6-10 juta",
+            "experience": "Pengalaman 1-2 tahun lebih diutamakan",
+            "location": "Bandung"
             },
             {
-                "title": "Fullstack Web Developer",
-                "company": "PT Gree Electric Appliances Indonesia",
-                "description": "Responsible for the front-end WEB and back-end function development...",
-                "qualification": "Bachelor's degree in Computer Science...",
-                "benefit": "Period Leave\nTeam Building Activity\nCasual Dress Code...",
-                "Similarity Score": 0.5801753997802734,
-                "tags": {
-                    "tempat": "Penuh Waktu",
-                    "tingkat": "Mahir",
-                    "industri": "Teknologi",
-                    "salary": "Rp 12-18 juta",
-                    "experience": "Minimal 3 tahun pengalaman",
-                    "location": "Jakarta"
-                }
+            "title": "Fullstack Web Developer",
+            "company": "PT Gree Electric Appliances Indonesia",
+            "description": "Responsible for the front-end WEB and back-end function development...",
+            "qualification": "Bachelor's degree in Computer Science...",
+            "benefit": "Period Leave\nTeam Building Activity\nCasual Dress Code...",
+            "Similarity Score": 0.5801753997802734,
+            "tags": ["Penuh Waktu", "Mahir", "Teknologi"],
+            "salary": "Rp 12-18 juta",
+            "experience": "Minimal 3 tahun pengalaman",
+            "location": "Jakarta"
             },
             {
-                "title": "Full Stack Developer",
-                "company": "PT. Mandiri International Technology",
-                "description": "Develop and maintain scalable web applications using React...",
-                "qualification": "Bachelor’s degree in Information Technology...",
-                "benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance...",
-                "Similarity Score": 0.5789563059806824,
-                "tags": {
-                    "tempat": "Freelance",
-                    "tingkat": "Mahir",
-                    "industri": "Data dan Produk",
-                    "salary": "Rp 20-30 juta",
-                    "experience": "Lebih dari 3 tahun pengalaman",
-                    "location": "Jakarta"
-                }
+            "title": "Full Stack Developer",
+            "company": "PT. Mandiri International Technology",
+            "description": "Develop and maintain scalable web applications using React...",
+            "qualification": "Bachelor’s degree in Information Technology...",
+            "benefit": "Competitive Salary\nTHR / Bonus system\nMedical Insurance...",
+            "Similarity Score": 0.5789563059806824,
+            "tags": ["Freelance", "Mahir", "Data dan Produk"],
+            "salary": "Rp 20-30 juta",
+            "experience": "Lebih dari 3 tahun pengalaman",
+            "location": "Jakarta"
             },
             {
-                "title": ".NET Developer",
-                "company": "First Resources Ltd.",
-                "description": "Develop aplikasi berbasis .Net...",
-                "qualification": "Pendidikan minimal S1 Teknologi Informasi...",
-                "benefit": "Period Leave\nMedical Insurance",
-                "Similarity Score": 0.5749985575675964,
-                "tags": {
-                    "tempat": "Penuh Waktu",
-                    "tingkat": "Pemula",
-                    "industri": "Teknologi",
-                    "salary": "Rp 8-14 juta",
-                    "experience": "Minimal 2 tahun pengalaman",
-                    "location": "Bandung"
-                }
+            "title": ".NET Developer",
+            "company": "First Resources Ltd.",
+            "description": "Develop aplikasi berbasis .Net...",
+            "qualification": "Pendidikan minimal S1 Teknologi Informasi...",
+            "benefit": "Period Leave\nMedical Insurance",
+            "Similarity Score": 0.5749985575675964,
+            "tags": ["Penuh Waktu", "Pemula", "Teknologi"],
+            "salary": "Rp 8-14 juta",
+            "experience": "Minimal 2 tahun pengalaman",
+            "location": "Bandung"
             },
             {
-                "title": "Full Stack Developer",
-                "company": "Kharisma Potensia Indonesia",
-                "description": "The Full Stack Developer will take ownership...",
-                "qualification": "Bachelor’s degree in Computer Science...",
-                "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system...",
-                "Similarity Score": 0.5733383893966675,
-                "tags": {
-                    "tempat": "Paruh Waktu",
-                    "tingkat": "Pemula",
-                    "industri": "Data dan Produk",
-                    "salary": "Rp 7-10 juta",
-                    "experience": "1-3 tahun pengalaman",
-                    "location": "Jakarta"
-                }
+            "title": "Full Stack Developer",
+            "company": "Kharisma Potensia Indonesia",
+            "description": "The Full Stack Developer will take ownership...",
+            "qualification": "Bachelor’s degree in Computer Science...",
+            "benefit": "Competitive Salary\nMedical Insurance\nTHR / Bonus system...",
+            "Similarity Score": 0.5733383893966675,
+            "tags": ["Paruh Waktu", "Pemula", "Data dan Produk"],
+            "salary": "Rp 7-10 juta",
+            "experience": "1-3 tahun pengalaman",
+            "location": "Jakarta"
             }
         ]
-    },
+        },
+
     "2": {
     "query_text": "3D Interaction Design in Virtual Reality",
     "recommendations": [

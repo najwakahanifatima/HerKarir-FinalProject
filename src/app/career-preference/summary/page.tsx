@@ -9,7 +9,7 @@ export default function SummaryPage() {
   return (
     <section className="max-w-3xl mx-auto p-6">
       <div className="bg-pink-100 h-2 rounded-full mb-6">
-        <div className="bg-pink-700 h-2 rounded-full w-full"></div>
+        <div className="bg-[#C9184A] h-2 rounded-full w-full"></div>
       </div>
 
       <h1 className="text-2xl font-semibold mb-1">Ringkasan</h1>
@@ -52,13 +52,13 @@ export default function SummaryPage() {
 
       <div className="flex justify-between mt-8">
         <button
-          className="bg-pink-700 text-white px-6 py-2 rounded-lg"
+          className="bg-[#C9184A] text-white px-6 py-2 rounded-lg transition cursor-pointer hover:bg-pink-500"
           onClick={() => {history.back()}}
         >
           Kembali
         </button>
         <button
-          className="bg-pink-700 text-white px-6 py-2 rounded-lg"
+          className="bg-[#C9184A] text-white px-6 py-2 rounded-lg transition cursor-pointer hover:bg-pink-500"
           onClick={() => {router.push('/job-opportunities')}}
         >
           Cari

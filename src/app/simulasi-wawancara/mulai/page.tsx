@@ -104,7 +104,7 @@ export default function MulaiSimulasiPage() {
             <div className="max-w-4xl mx-auto">
                 
                 <div className="w-full bg-gray-200 rounded-full h-2.5 mb-2">
-                    <div className="bg-pink-600 h-2.5 rounded-full" style={{ width: `${(questionNumber / totalQuestions) * 100}%` }}></div>
+                    <div className="bg-[#C9184A] h-2.5 rounded-full" style={{ width: `${(questionNumber / totalQuestions) * 100}%` }}></div>
                 </div>
                 <p className="text-right font-semibold text-gray-600 mb-8">({questionNumber}/{totalQuestions})</p>
 
@@ -128,7 +128,7 @@ export default function MulaiSimulasiPage() {
                 <textarea
                     value={transcript}
                     placeholder="Klik 'Mulai Menjawab' untuk mulai merekam jawaban Anda..."
-                    className="text-gray-500 w-full h-32 p-4 border-2 border-pink-200 rounded-lg focus:outline-none focus:border-pink-500"
+                    className="text-gray-500 w-full h-32 p-4 border-2 border-pink-200 rounded-lg focus:outline-none focus:border-[#C9184A]"
                     readOnly
                 />
 
@@ -137,7 +137,7 @@ export default function MulaiSimulasiPage() {
                         {!listening ? (
                             <button 
                                 onClick={handleStartRecording} 
-                                className="bg-green-600 text-white font-semibold py-3 px-8 rounded-lg hover:bg-green-700"
+                                className="bg-green-600 text-white font-semibold py-3 px-8 rounded-lg hover:bg-green-700 cursor-pointer"
                             >
                                 Mulai Menjawab
                             </button>
@@ -151,7 +151,7 @@ export default function MulaiSimulasiPage() {
                         )}
                         <button 
                             onClick={handleNextQuestion} 
-                            className="bg-pink-600 text-white font-semibold py-3 px-8 rounded-lg hover:bg-pink-700 disabled:bg-gray-400"
+                            className="bg-[#C9184A] text-white font-semibold py-3 px-8 rounded-lg hover:bg-pink-500 disabled:bg-gray-400 cursor-pointer"
                             disabled={listening}
                         >
                             Kirim dan Lanjutkan

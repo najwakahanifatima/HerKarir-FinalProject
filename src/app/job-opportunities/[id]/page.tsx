@@ -68,16 +68,16 @@ export default function JobDetailPage() {
 
           <h3 className="font-semibold mt-4 mb-1">Benefit perusahaan</h3>
           <div className="flex gap-2 flex-wrap">
-            <span className="bg-pink-100 text-pink-700 text-xs px-2 py-1 rounded-full">
+            <span className="bg-pink-100 text-[#C9184A] text-xs px-2 py-1 rounded-full">
               Bonus System
             </span>
-            <span className="bg-pink-100 text-pink-700 text-xs px-2 py-1 rounded-full">
+            <span className="bg-pink-100 text-[#C9184A] text-xs px-2 py-1 rounded-full">
               Team Building Activity
             </span>
           </div>
 
           <button
-            className="w-full mt-4 bg-pink-600 text-white py-2 rounded-lg text-sm font-semibold cursor-pointer transform transition hover:-translate-0.5"
+            className="w-full mt-4 bg-[#C9184A] text-white py-2 rounded-lg text-sm font-semibold cursor-pointer transform transition hover:bg-pink-500"
             onClick={() => setOpenModal(true)}
           >
             Lamar sekarang

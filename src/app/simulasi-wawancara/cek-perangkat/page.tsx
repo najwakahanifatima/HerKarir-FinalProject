@@ -183,7 +183,7 @@ const Step2 = ({ audioOk, setAudioOk, envOk, setEnvOk, internetOk, setInternetOk
                 <div>
                     <label className="block text-sm font-medium text-gray-700 mb-2">Tes Mikrofon</label>
                     <div className="flex items-center gap-4">
-                        <button onClick={testMicrophone} className="bg-pink-600 text-white font-semibold py-2 px-6 rounded-lg">
+                        <button onClick={testMicrophone} className="bg-[#C9184A] text-white font-semibold py-2 px-6 rounded-lg cursor-pointer transition hover:bg-pink-500">
                             tes
                         </button>
                         <div className="bg-gray-100 rounded-lg p-1">
@@ -213,7 +213,7 @@ const Step2 = ({ audioOk, setAudioOk, envOk, setEnvOk, internetOk, setInternetOk
                                 {ping ? `${ping} ms` : '-'}
                             </p>
                         </div>
-                        <button onClick={checkPing} disabled={isCheckingPing} className="text-sm text-pink-600 hover:underline disabled:text-gray-400">
+                        <button onClick={checkPing} disabled={isCheckingPing} className="text-sm text-[#C9184A] hover:underline disabled:text-gray-400">
                           {isCheckingPing ? 'Mengecek...' : 'Cek Ping'}
                         </button>
                     </div>
@@ -222,15 +222,15 @@ const Step2 = ({ audioOk, setAudioOk, envOk, setEnvOk, internetOk, setInternetOk
 
             <div className="space-y-4">
                 <label className="flex items-center gap-3 cursor-pointer">
-                  <input type="checkbox" checked={audioOk} onChange={() => setAudioOk(!audioOk)} className="h-5 w-5 rounded text-pink-600 focus:ring-pink-500 border-gray-300"/>
+                  <input type="checkbox" checked={audioOk} onChange={() => setAudioOk(!audioOk)} className="h-5 w-5 rounded text-[#C9184A] focus:ring-[#C9184A] border-gray-300"/>
                   <span className="text-gray-700">Audio saya berfungsi dengan baik</span>
                 </label>
                 <label className="flex items-center gap-3 cursor-pointer">
-                  <input type="checkbox" checked={envOk} onChange={() => setEnvOk(!envOk)} className="h-5 w-5 rounded text-pink-600 focus:ring-pink-500 border-gray-300"/>
+                  <input type="checkbox" checked={envOk} onChange={() => setEnvOk(!envOk)} className="h-5 w-5 rounded text-[#C9184A] focus:ring-[#C9184A] border-gray-300"/>
                   <span className="text-gray-700">Saya berada di lingkungan yang tenang dan bebas gangguan</span>
                 </label>
                 <label className="flex items-center gap-3 cursor-pointer">
-                  <input type="checkbox" checked={internetOk} onChange={() => setInternetOk(!internetOk)} className="h-5 w-5 rounded text-pink-600 focus:ring-pink-500 border-gray-300"/>
+                  <input type="checkbox" checked={internetOk} onChange={() => setInternetOk(!internetOk)} className="h-5 w-5 rounded text-[#C9184A] focus:ring-[#C9184A] border-gray-300"/>
                   <span className="text-gray-700">Internet saya stabil</span>
                 </label>
             </div>
@@ -286,7 +286,7 @@ export default function CekPerangkatPage() {
           <button 
             onClick={handleNext}
             disabled={step === 1 ? !canContinueStep1 : !canContinueStep2}
-            className="py-2 px-6 bg-pink-600 text-white rounded-lg font-semibold hover:bg-pink-700 disabled:bg-gray-300"
+            className="py-2 px-6 bg-[#C9184A] text-white rounded-lg font-semibold hover:bg-pink-500 disabled:bg-gray-300 cursor-pointer"
           >
             Selanjutnya
           </button>

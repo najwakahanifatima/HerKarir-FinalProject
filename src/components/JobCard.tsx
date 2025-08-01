@@ -43,7 +43,7 @@ export default function JobCard({
       </div>
 
       <button
-        className="mt-4 bg-pink-500 text-white px-3 py-2 rounded-lg"
+        className="mt-4 bg-[#C9184A] text-white px-3 py-2 rounded-lg cursor-pointer transition hover:bg-pink-500"
         onClick={() =>
           router.push(`/job-opportunities/${1}`)
         }

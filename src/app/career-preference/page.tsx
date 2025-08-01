@@ -10,7 +10,7 @@ export default function CareerStep1() {
     <section className="p-6 max-w-3xl mx-auto">
       {/* Progress bar */}
       <div className="bg-pink-100 h-2 rounded-full mb-6">
-        <div className="bg-pink-600 h-2 rounded-full w-1/3"></div>
+        <div className="bg-[#C9184A] h-2 rounded-full w-1/3"></div>
       </div>
 
       <h1 className="text-2xl font-semibold">Preferensi Karir</h1>
@@ -107,13 +107,13 @@ export default function CareerStep1() {
       {/* Buttons */}
       <div className="flex justify-between">
         <button
-          className="bg-pink-600 text-white px-6 py-2 rounded-lg"
+          className="bg-[#C9184A] text-white px-6 py-2 rounded-lg transform hover:bg-pink-500 cursor-pointer"
           onClick={() => {history.back()}}
         >
           Kembali
         </button>
         <button
-          className="bg-pink-600 text-white px-6 py-2 rounded-lg"
+          className="bg-[#C9184A] text-white px-6 py-2 rounded-lg transform hover:bg-pink-500 cursor-pointer"
           onClick={() => router.push("/career-preference/skills")}
         >
           Selanjutnya

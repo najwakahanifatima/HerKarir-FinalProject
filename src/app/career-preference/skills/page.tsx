@@ -32,7 +32,7 @@ export default function CareerStep2() {
     <section className="max-w-3xl mx-auto p-6">
       {/* Progress bar */}
       <div className="bg-pink-100 h-2 rounded-full mb-6">
-        <div className="bg-pink-600 h-2 rounded-full w-2/3"></div>
+        <div className="bg-[#C9184A] h-2 rounded-full w-2/3"></div>
       </div>
 
       <h1 className="text-2xl font-semibold mb-1">Skill kamu saat ini</h1>
@@ -78,7 +78,7 @@ export default function CareerStep2() {
       {/* Tombol Tambah Skill */}
       <button
         onClick={addSkill}
-        className="bg-pink-200 text-pink-700 px-4 py-2 rounded-lg mb-6"
+        className="bg-pink-200 text-[#C9184A] px-4 py-2 rounded-lg mb-6 hover:bg-pink-100 transition cursor-pointer"
       >
         + Skill
       </button>
@@ -86,13 +86,13 @@ export default function CareerStep2() {
       {/* Tombol Navigasi */}
       <div className="flex justify-between">
         <button
-          className="bg-pink-600 text-white px-6 py-2 rounded-lg"
+          className="bg-[#C9184A] text-white px-6 py-2 rounded-lg cursor-pointer hover:bg-pink-500 transition"
           onClick={() => {history.back()}}
         >
           Kembali
         </button>
         <button
-          className="bg-pink-600 text-white px-6 py-2 rounded-lg"
+          className="bg-[#C9184A] text-white px-6 py-2 rounded-lg cursor-pointer hover:bg-pink-500 transition"
           onClick={handleNext}
         >
           Selanjutnya

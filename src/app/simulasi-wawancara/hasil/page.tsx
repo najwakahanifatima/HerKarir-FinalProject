@@ -34,25 +34,25 @@ function HasilContent() {
     <div className="bg-white py-12 px-4 md:px-12">
       <div className="max-w-4xl mx-auto">
         <p className="text-lg font-semibold text-gray-700 mb-5">Skor kamu:</p>
-        <h1 className="text-7xl font-bold text-pink-600 mb-12">{score}/100</h1>
+        <h1 className="text-7xl font-bold text-[#C9184A] mb-12">{score}/100</h1>
         <div className="flex flex-col lg:flex-row gap-12">
           <div className="lg:w-2/3">
             <h2 className="text-3xl font-bold text-gray-800 mb-6">Tips Penting untuk Meningkatkan Kualitas Wawancaramu</h2>
             <div className="space-y-6">
               <div>
-                <h3 className="text-xl font-semibold text-pink-600 mb-3">Tips Interview:</h3>
+                <h3 className="text-xl font-semibold text-[#C9184A] mb-3">Tips Interview:</h3>
                 <ul className="list-disc list-inside space-y-2 text-gray-700">
                   {tipsData.interview.map((tip, index) => <li key={index}>{tip}</li>)}
                 </ul>
               </div>
               <div>
-                <h3 className="text-xl font-semibold text-pink-600 mb-3">Kesalahan Umum:</h3>
+                <h3 className="text-xl font-semibold text-[#C9184A] mb-3">Kesalahan Umum:</h3>
                 <ul className="list-disc list-inside space-y-2 text-gray-700">
                   {tipsData.kesalahanUmum.map((tip, index) => <li key={index}>{tip}</li>)}
                 </ul>
               </div>
               <div>
-                <h3 className="text-xl font-semibold text-pink-600 mb-3">Pertanyaan Menjebak:</h3>
+                <h3 className="text-xl font-semibold text-[#C9184A] mb-3">Pertanyaan Menjebak:</h3>
                 <ul className="list-disc list-inside space-y-3 text-gray-700">
                   {tipsData.pertanyaanMenjebak.map((item, index) => (
                     <li key={index}>

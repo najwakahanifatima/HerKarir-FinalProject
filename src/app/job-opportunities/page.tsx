@@ -48,7 +48,7 @@ export default function JobOpportunitiesPage() {
           {activeFilters.map((f) => (
             <span
               key={f}
-              className="bg-pink-100 text-pink-700 text-sm px-3 py-1 rounded-full"
+              className="bg-pink-100 text-[#C9184A] text-sm px-3 py-1 rounded-full"
             >
               {f} ✕
             </span>

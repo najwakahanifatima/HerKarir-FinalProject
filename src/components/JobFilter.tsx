@@ -16,7 +16,7 @@ export default function JobFilter({ filters, setFilters }: JobFilterProps) {
     <div className="border rounded-xl p-4 shadow-md w-64">
       <div className="flex justify-between mb-3">
         <h3 className="font-bold">Filter</h3>
-        <button onClick={() => setFilters({})} className="text-sm text-pink-500">
+        <button onClick={() => setFilters({})} className="text-sm text-[#C9184A] cursor-pointer transition hover:text-pink-500">
           Clear All
         </button>
       </div>
@@ -44,7 +44,7 @@ export default function JobFilter({ filters, setFilters }: JobFilterProps) {
             key={type}
             className={`px-3 py-1 rounded-full text-sm ${
               filters.jobType?.includes(type)
-                ? "bg-pink-500 text-white"
+                ? "bg-[#C9184A] text-white"
                 : "bg-gray-100"
             }`}
             onClick={() =>
